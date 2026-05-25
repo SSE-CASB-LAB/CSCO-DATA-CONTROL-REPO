@@ -1,0 +1,3997 @@
+Confidential Financial Data 
+1. Transaction ID: cabab881-bdd5-4992-8d05-f85ce5294c63
+Transaction Date: 07/22/2025
+Value Date: 07/22/2025
+Posting Date: 07/26/2025
+Vendor: Bazin Bonnin S.A.R.L. (ID: VND-29738)
+Invoice: INV-281641 | PO: PO-6616
+Amount: 27,941.53 AOA
+Payment Method: ACH
+Bank: Citigroup (Branch Code: 527)
+Account Number: LXJF05092272963090
+Beneficiary: Lisa Lloyd
+Risk Score: Critical
+2. Transaction ID: c83bba09-087f-4d28-ab87-7ac9cd41b3af
+Transaction Date: 11/06/2025
+Value Date: 11/07/2025
+Posting Date: 11/08/2025
+Vendor: Mason and Sons (ID: VND-87040)
+Invoice: INV-348179 | PO: PO-6671
+Amount: 46,109.62 COP
+Payment Method: SEPA
+Bank: BNP Paribas (Branch Code: 428)
+Account Number: JLLJ92418494030990
+Beneficiary: Océane-Pauline Launay
+Risk Score: Low
+3. Transaction ID: 4efc8dc3-0607-4cbd-9d13-d341f2c84d3c
+Transaction Date: 10/23/2025
+Value Date: 10/23/2025
+Posting Date: 10/24/2025
+Vendor: Finke GmbH & Co. KGaA (ID: VND-69436)
+Invoice: INV-405845 | PO: PO-5375
+Amount: 46,933.79 LKR
+Payment Method: ACH
+Bank: Banco Santander (Branch Code: 843)
+Account Number: VHLC36540802235847
+Beneficiary: Igor Etzold
+Risk Score: High
+4. Transaction ID: 420f8ba2-c82d-4e5a-a8e9-b6fcec8ac77c
+Transaction Date: 06/02/2025
+Value Date: 06/02/2025
+Posting Date: 06/03/2025
+Vendor: Valette (ID: VND-20179)
+Invoice: INV-493650 | PO: PO-7706
+Amount: 18,967.94 NOK
+Payment Method: SEPA
+Bank: JPMorgan Chase (Branch Code: 296)
+Account Number: 12401325112874018100765
+Beneficiary: Mark Bean
+Risk Score: Critical
+5. Transaction ID: 0591519f-9575-48c5-bf71-e7c0916137fa
+Transaction Date: 10/24/2025
+Value Date: 10/24/2025
+Posting Date: 10/28/2025
+Vendor: Marchand (ID: VND-61167)
+Invoice: INV-558764 | PO: PO-8646
+Amount: 48,800.75 MRO
+Payment Method: Credit Card
+Bank: Commerzbank (Branch Code: 303)
+Account Number: IFLX21064100979914
+Beneficiary: Dr Valerie Barber
+Risk Score: High
+6. Transaction ID: e40ce9b6-1223-4bd6-b849-76e015e79691
+Transaction Date: 07/26/2025
+Value Date: 07/28/2025
+Posting Date: 07/30/2025
+Vendor: Knapp LLC (ID: VND-13214)
+Invoice: INV-317262 | PO: PO-9959
+Amount: 37,263.53 XPF
+Payment Method: ACH
+Bank: NatWest Group (Branch Code: 774)
+Account Number: 318552478325717729
+Beneficiary: Hendrik Säuberlich
+Risk Score: Critical
+7. Transaction ID: c9d27422-1dcc-420e-a2de-c2ba9bd9b01a
+Transaction Date: 09/15/2025
+Value Date: 09/15/2025
+Posting Date: 09/16/2025
+Vendor: Thibault S.A.S. (ID: VND-10779)
+Invoice: INV-211891 | PO: PO-9147
+Amount: 27,562.09 BSD
+Payment Method: Wire Transfer
+Bank: Citigroup (Branch Code: 982)
+Account Number: 75377976228713339382879
+Beneficiary: Tracey Wilson
+Risk Score: Critical
+8. Transaction ID: ffcafc38-89b5-4d56-8d70-3cc84a23e271
+Transaction Date: 08/24/2025
+Value Date: 08/24/2025
+Posting Date: 08/28/2025
+Vendor: Turner LLC (ID: VND-70052)
+Invoice: INV-366947 | PO: PO-5340
+Amount: 5,397.44 ILS
+Payment Method: Wire Transfer
+Bank: Toronto-Dominion Bank (Branch Code: 376)
+Account Number: 17706801621706000694441
+Beneficiary: Michèle Charpentier
+Risk Score: Critical
+9. Transaction ID: 9c733b9a-cb75-4665-bcf0-720be230f827
+Transaction Date: 08/14/2025
+Value Date: 08/14/2025
+Posting Date: 08/16/2025
+Vendor: Wilson Group (ID: VND-22838)
+Invoice: INV-934393 | PO: PO-8195
+Amount: 44,398.13 BAM
+Payment Method: ACH
+Bank: UBS Group (Branch Code: 226)
+Account Number: 91054762388311748787456
+Beneficiary: Marion Smith
+Risk Score: Low
+10. Transaction ID: 76d7e64c-c7dd-40bc-a32a-91535e5764ad
+Transaction Date: 07/14/2025
+Value Date: 07/14/2025
+Posting Date: 07/18/2025
+Vendor: Matthews-Harrison (ID: VND-69536)
+Invoice: INV-796682 | PO: PO-5828
+Amount: 34,665.05 LAK
+Payment Method: Wire Transfer
+Bank: JPMorgan Chase (Branch Code: 683)
+Account Number: 16999652364124417544882
+Beneficiary: Stéphanie-Élise Rocher
+Risk Score: Low
+11. Transaction ID: cbb41c7d-c6d0-4600-813a-0a032e8beff3
+Transaction Date: 07/08/2025
+Value Date: 07/09/2025
+Posting Date: 07/13/2025
+Vendor: Rosenow Rudolph AG (ID: VND-68706)
+Invoice: INV-127980 | PO: PO-9153
+Amount: 24,392.66 SGD
+Payment Method: Credit Card
+Bank: UBS Group (Branch Code: 928)
+Account Number: UQQY65143424637750
+Beneficiary: Sally Francis
+Risk Score: High
+12. Transaction ID: 4cfa1510-dd57-46cc-958d-06f84b93b577
+Transaction Date: 08/14/2025
+Value Date: 08/16/2025
+Posting Date: 08/17/2025
+Vendor: Kranz Römer AG (ID: VND-18038)
+Invoice: INV-681568 | PO: PO-7082
+Amount: 12,151.03 CAD
+Payment Method: SEPA
+Bank: Lloyds Banking Group (Branch Code: 643)
+Account Number: 12776047168265257402062
+Beneficiary: Dr. Heinz Hiller
+Risk Score: Critical
+13. Transaction ID: 1e2c085f-293b-41c2-9c47-2edea1c51d12
+Transaction Date: 12/16/2025
+Value Date: 12/17/2025
+Posting Date: 12/20/2025
+Vendor: Allard Schmitt S.A.S. (ID: VND-68835)
+Invoice: INV-882225 | PO: PO-9528
+Amount: 6,632.58 MKD
+Payment Method: Check
+Bank: Crédit Agricole (Branch Code: 918)
+Account Number: 511875935085159224
+Beneficiary: Ing. Olaf Nohlmans
+Risk Score: High
+14. Transaction ID: 16b86f5e-2898-4ee4-b93c-e1e9f7d93b2f
+Transaction Date: 04/17/2025
+Value Date: 04/19/2025
+Posting Date: 04/24/2025
+Vendor: Smith, Hudson and Lewis (ID: VND-89869)
+Invoice: INV-262410 | PO: PO-8369
+Amount: 11,403.85 MWK
+Payment Method: Wire Transfer
+Bank: NatWest Group (Branch Code: 156)
+Account Number: NXFH86571631301000
+Beneficiary: Ekkehard Vollbrecht
+Risk Score: Critical
+15. Transaction ID: 3fb32df5-6241-4a6d-88ef-796a094fe786
+Transaction Date: 10/17/2025
+Value Date: 10/18/2025
+Posting Date: 10/22/2025
+Vendor: Blanchet (ID: VND-80388)
+Invoice: INV-531926 | PO: PO-6273
+Amount: 36,569.21 BAM
+Payment Method: Wire Transfer
+Bank: Lloyds Banking Group (Branch Code: 745)
+Account Number: 05367449844354711796933
+Beneficiary: Karin Hermann
+Risk Score: High
+16. Transaction ID: d28c73dd-72f8-4217-adf9-6407b691ffd6
+Transaction Date: 11/19/2025
+Value Date: 11/19/2025
+Posting Date: 11/24/2025
+Vendor: Muller et Fils (ID: VND-61657)
+Invoice: INV-610094 | PO: PO-8939
+Amount: 15,034.38 IMP
+Payment Method: SEPA
+Bank: Citigroup (Branch Code: 441)
+Account Number: 31556540622601364972859
+Beneficiary: Herr Jonathan Wohlgemut B.Eng.
+Risk Score: Critical
+17. Transaction ID: 9d6b17db-9551-4d69-a3c4-f483f13a2fa5
+Transaction Date: 08/18/2025
+Value Date: 08/18/2025
+Posting Date: 08/20/2025
+Vendor: King, Johnson and Thompson (ID: VND-78052)
+Invoice: INV-227518 | PO: PO-8633
+Amount: 29,414.68 CNY
+Payment Method: SEPA
+Bank: NatWest Group (Branch Code: 276)
+Account Number: ABSQ87075175209729
+Beneficiary: Alexandrie Maury
+Risk Score: High
+18. Transaction ID: 55ff77dc-a576-4556-a831-2112e67798a2
+Transaction Date: 02/26/2025
+Value Date: 02/26/2025
+Posting Date: 02/27/2025
+Vendor: Antoine SARL (ID: VND-71395)
+Invoice: INV-446663 | PO: PO-7448
+Amount: 8,991.80 CDF
+Payment Method: Credit Card
+Bank: Goldman Sachs (Branch Code: 717)
+Account Number: 342288023139076298
+Beneficiary: Cetin Tschentscher
+Risk Score: High
+19. Transaction ID: c977e290-b1a7-48ce-ab80-d49279199111
+Transaction Date: 05/19/2025
+Value Date: 05/20/2025
+Posting Date: 05/22/2025
+Vendor: Knight Inc (ID: VND-78864)
+Invoice: INV-285976 | PO: PO-6469
+Amount: 11,916.88 GEL
+Payment Method: Wire Transfer
+Bank: Morgan Stanley (Branch Code: 504)
+Account Number: 840752302933079936
+Beneficiary: Paige Cox
+Risk Score: High
+20. Transaction ID: 0707c63a-d6ec-488d-927c-ab0ab72e8773
+Transaction Date: 08/15/2025
+Value Date: 08/16/2025
+Posting Date: 08/21/2025
+Vendor: Stiffel Dippel KGaA (ID: VND-46673)
+Invoice: INV-723324 | PO: PO-7409
+Amount: 16,625.15 IRR
+Payment Method: Check
+Bank: Crédit Agricole (Branch Code: 185)
+Account Number: 93102108336387409809277
+Beneficiary: André Meyer
+Risk Score: Medium
+21. Transaction ID: f86515a2-d6c5-4334-be1f-f209897cb83b
+Transaction Date: 02/21/2025
+Value Date: 02/21/2025
+Posting Date: 02/23/2025
+Vendor: Karz Pergande AG (ID: VND-76465)
+Invoice: INV-641690 | PO: PO-7255
+Amount: 11,273.33 PLN
+Payment Method: Check
+Bank: Morgan Stanley (Branch Code: 858)
+Account Number: IKVG56162182441370
+Beneficiary: Jérôme Dos Santos-Payet
+Risk Score: Medium
+22. Transaction ID: f9aa4519-801b-4c04-8622-566e46041271
+Transaction Date: 02/26/2025
+Value Date: 02/27/2025
+Posting Date: 03/02/2025
+Vendor: Pearce, Williams and Hewitt (ID: VND-88934)
+Invoice: INV-292843 | PO: PO-8654
+Amount: 30,659.46 VND
+Payment Method: Wire Transfer
+Bank: Commerzbank (Branch Code: 816)
+Account Number: 84565092615652404315437
+Beneficiary: Paulette-Denise Dupuis
+Risk Score: High
+23. Transaction ID: 47f444db-6a67-423e-93bc-f7f8ac192e98
+Transaction Date: 04/23/2025
+Value Date: 04/24/2025
+Posting Date: 04/27/2025
+Vendor: Austin PLC (ID: VND-86038)
+Invoice: INV-959336 | PO: PO-6417
+Amount: 10,252.89 ERN
+Payment Method: Credit Card
+Bank: Deutsche Bank (Branch Code: 281)
+Account Number: PZDA48034150865016
+Beneficiary: Nicholas Lee
+Risk Score: Medium
+24. Transaction ID: 24b91887-65a8-4c20-9689-d3c00d5af5fb
+Transaction Date: 08/15/2025
+Value Date: 08/16/2025
+Posting Date: 08/21/2025
+Vendor: Burns, Richards and Clark (ID: VND-57062)
+Invoice: INV-833614 | PO: PO-8427
+Amount: 3,761.74 SCR
+Payment Method: Check
+Bank: Royal Bank of Canada (Branch Code: 244)
+Account Number: HRNS61348797670032
+Beneficiary: Zdenka Rörricht B.Sc.
+Risk Score: Medium
+25. Transaction ID: 306eec4f-9f8c-4d22-93b9-2467d8d93bde
+Transaction Date: 02/15/2025
+Value Date: 02/17/2025
+Posting Date: 02/18/2025
+Vendor: Boutin (ID: VND-76014)
+Invoice: INV-226620 | PO: PO-9758
+Amount: 19,447.11 GTQ
+Payment Method: Credit Card
+Bank: Morgan Stanley (Branch Code: 776)
+Account Number: AHQA90566102734811
+Beneficiary: Univ.Prof. Notburga Schwital
+Risk Score: Low
+26. Transaction ID: 6f1a27e9-dd08-4a7e-bb4b-6277d505afcd
+Transaction Date: 01/31/2026
+Value Date: 02/02/2026
+Posting Date: 02/07/2026
+Vendor: Delahaye (ID: VND-28402)
+Invoice: INV-906623 | PO: PO-9421
+Amount: 48,749.77 SGD
+Payment Method: SEPA
+Bank: NatWest Group (Branch Code: 255)
+Account Number: SBFV16589204314668
+Beneficiary: Paige Lowe
+Risk Score: Critical
+27. Transaction ID: 0124a88d-bc98-4652-80b8-901d44f525c7
+Transaction Date: 12/02/2025
+Value Date: 12/03/2025
+Posting Date: 12/07/2025
+Vendor: Patel Group (ID: VND-58137)
+Invoice: INV-434048 | PO: PO-6176
+Amount: 44,263.09 GNF
+Payment Method: Check
+Bank: NatWest Group (Branch Code: 246)
+Account Number: EBXQ99618913753340
+Beneficiary: William Black
+Risk Score: Low
+28. Transaction ID: f5393b3b-e474-4a23-9208-73f5170ef835
+Transaction Date: 07/18/2025
+Value Date: 07/18/2025
+Posting Date: 07/19/2025
+Vendor: Picard (ID: VND-95688)
+Invoice: INV-513179 | PO: PO-7126
+Amount: 19,466.04 CZK
+Payment Method: ACH
+Bank: Wells Fargo (Branch Code: 554)
+Account Number: DLWD41937494376362
+Beneficiary: Tiffany Williams
+Risk Score: Medium
+29. Transaction ID: b939624e-b7f2-4cf1-b7a0-84301f889b37
+Transaction Date: 07/01/2025
+Value Date: 07/03/2025
+Posting Date: 07/07/2025
+Vendor: Marty SA (ID: VND-82131)
+Invoice: INV-458721 | PO: PO-5524
+Amount: 15,379.86 CUC
+Payment Method: Credit Card
+Bank: HSBC Holdings (Branch Code: 285)
+Account Number: 50809594696523469465859
+Beneficiary: John Ramos
+Risk Score: High
+30. Transaction ID: 20c0386f-4e87-4c47-9935-d70dce32deaa
+Transaction Date: 06/05/2025
+Value Date: 06/06/2025
+Posting Date: 06/07/2025
+Vendor: Höfig AG (ID: VND-75121)
+Invoice: INV-888723 | PO: PO-8564
+Amount: 37,537.86 BOB
+Payment Method: Check
+Bank: Barclays (Branch Code: 642)
+Account Number: 509171281907506233
+Beneficiary: Bernadette Peron
+Risk Score: Critical
+31. Transaction ID: 087ed601-349f-4844-97c1-08c3b54bc05b
+Transaction Date: 09/09/2025
+Value Date: 09/11/2025
+Posting Date: 09/13/2025
+Vendor: Pope-Alvarez (ID: VND-45555)
+Invoice: INV-334842 | PO: PO-8662
+Amount: 22,629.02 IQD
+Payment Method: Credit Card
+Bank: Royal Bank of Canada (Branch Code: 687)
+Account Number: 53340106113861444843580
+Beneficiary: Margaret Mallet
+Risk Score: Low
+32. Transaction ID: 73619bed-c5bf-459f-b81e-517d6c2449d3
+Transaction Date: 06/05/2025
+Value Date: 06/06/2025
+Posting Date: 06/07/2025
+Vendor: Junken (ID: VND-85211)
+Invoice: INV-219799 | PO: PO-6127
+Amount: 18,337.38 BDT
+Payment Method: Check
+Bank: Commerzbank (Branch Code: 530)
+Account Number: 836906679561887005
+Beneficiary: Wayne Ford
+Risk Score: Critical
+33. Transaction ID: 3856dfc0-eaa1-4575-b24a-e6a6a549aae7
+Transaction Date: 10/05/2025
+Value Date: 10/07/2025
+Posting Date: 10/08/2025
+Vendor: Arias, Bautista and Sanchez (ID: VND-28117)
+Invoice: INV-178519 | PO: PO-7121
+Amount: 33,874.07 PKR
+Payment Method: Credit Card
+Bank: HSBC Holdings (Branch Code: 791)
+Account Number: 24534186945877082146536
+Beneficiary: Ing. Knut Winkler
+Risk Score: Medium
+34. Transaction ID: 6f5567f0-7f20-407a-ae95-c48693de8247
+Transaction Date: 03/18/2025
+Value Date: 03/20/2025
+Posting Date: 03/24/2025
+Vendor: Martin (ID: VND-77308)
+Invoice: INV-652625 | PO: PO-8031
+Amount: 21,404.15 COP
+Payment Method: SEPA
+Bank: Lloyds Banking Group (Branch Code: 126)
+Account Number: 50542443769713034458113
+Beneficiary: Mr Charlie Turner
+Risk Score: Critical
+35. Transaction ID: cc50b137-dd9a-492b-ab1a-b50aa094edf5
+Transaction Date: 03/09/2025
+Value Date: 03/10/2025
+Posting Date: 03/14/2025
+Vendor: Schomber (ID: VND-69930)
+Invoice: INV-558600 | PO: PO-5904
+Amount: 16,550.42 AFN
+Payment Method: Check
+Bank: BNP Paribas (Branch Code: 250)
+Account Number: EQZN72895357939858
+Beneficiary: Sébastien Gaillard
+Risk Score: Low
+36. Transaction ID: ab53362e-c40e-4c31-8369-13bf3a9db480
+Transaction Date: 06/23/2025
+Value Date: 06/25/2025
+Posting Date: 06/27/2025
+Vendor: Adams-Clarke (ID: VND-12419)
+Invoice: INV-877405 | PO: PO-7803
+Amount: 39,030.54 INR
+Payment Method: ACH
+Bank: Wells Fargo (Branch Code: 776)
+Account Number: 843382056993386344
+Beneficiary: Frau Beatrice Roskoth
+Risk Score: Low
+37. Transaction ID: 6dc88d33-badc-4781-a479-c88d552934c2
+Transaction Date: 10/07/2025
+Value Date: 10/09/2025
+Posting Date: 10/13/2025
+Vendor: Monroe-Thomas (ID: VND-57136)
+Invoice: INV-741505 | PO: PO-8250
+Amount: 36,947.03 BND
+Payment Method: Wire Transfer
+Bank: Goldman Sachs (Branch Code: 913)
+Account Number: PZOT92247252333360
+Beneficiary: Glen Hyde
+Risk Score: Critical
+38. Transaction ID: bc4dd1c5-737e-4d23-91f4-97ce4c4b14d3
+Transaction Date: 04/01/2025
+Value Date: 04/03/2025
+Posting Date: 04/08/2025
+Vendor: Stumpf (ID: VND-17391)
+Invoice: INV-396016 | PO: PO-6985
+Amount: 47,770.82 MNT
+Payment Method: Credit Card
+Bank: HSBC Holdings (Branch Code: 915)
+Account Number: 753740804710142393
+Beneficiary: Inès Camus
+Risk Score: Medium
+39. Transaction ID: a7854bfa-351b-45ca-bc6f-29eb4499895e
+Transaction Date: 02/04/2025
+Value Date: 02/06/2025
+Posting Date: 02/06/2025
+Vendor: Andre SA (ID: VND-32725)
+Invoice: INV-910956 | PO: PO-9632
+Amount: 12,818.50 RWF
+Payment Method: SEPA
+Bank: Goldman Sachs (Branch Code: 673)
+Account Number: SIQO64265097919328
+Beneficiary: Polina Schaaf
+Risk Score: Critical
+40. Transaction ID: 1af344c6-6ac5-40bd-8b43-551c8f5383c9
+Transaction Date: 08/30/2025
+Value Date: 09/01/2025
+Posting Date: 09/03/2025
+Vendor: Jean (ID: VND-21860)
+Invoice: INV-453604 | PO: PO-9918
+Amount: 3,490.00 AZN
+Payment Method: Check
+Bank: Bank of America (Branch Code: 248)
+Account Number: 37990178514774047269427
+Beneficiary: Julien Lebrun
+Risk Score: Low
+41. Transaction ID: 78e48883-4c41-43a6-a3e4-6833afcb4d89
+Transaction Date: 04/23/2025
+Value Date: 04/23/2025
+Posting Date: 04/28/2025
+Vendor: Dyer, Mahoney and Turner (ID: VND-58282)
+Invoice: INV-682051 | PO: PO-8489
+Amount: 38,986.17 MOP
+Payment Method: Credit Card
+Bank: Lloyds Banking Group (Branch Code: 435)
+Account Number: KOUL66140940573390
+Beneficiary: Gary Ford
+Risk Score: High
+42. Transaction ID: 7619adc4-f602-4945-95d5-6ae6047a5cc1
+Transaction Date: 06/28/2025
+Value Date: 06/30/2025
+Posting Date: 07/04/2025
+Vendor: Riou (ID: VND-90029)
+Invoice: INV-943126 | PO: PO-7586
+Amount: 3,637.47 MXN
+Payment Method: SEPA
+Bank: Goldman Sachs (Branch Code: 933)
+Account Number: LJSH12892979543739
+Beneficiary: Dr Glenn Hill
+Risk Score: Low
+43. Transaction ID: 6b79b4b8-4d13-4dd7-8a35-220ca93228f3
+Transaction Date: 01/15/2026
+Value Date: 01/17/2026
+Posting Date: 01/17/2026
+Vendor: Hörle (ID: VND-13246)
+Invoice: INV-937349 | PO: PO-8127
+Amount: 1,707.06 AFN
+Payment Method: Check
+Bank: Morgan Stanley (Branch Code: 889)
+Account Number: LHZA09335693177363
+Beneficiary: Jacqueline Boucher
+Risk Score: Medium
+44. Transaction ID: b61a940e-7633-44d6-96a3-9ccd8335df92
+Transaction Date: 12/31/2025
+Value Date: 12/31/2025
+Posting Date: 01/03/2026
+Vendor: Stiebitz Stiftung & Co. KGaA (ID: VND-73468)
+Invoice: INV-513874 | PO: PO-7671
+Amount: 15,211.63 ARS
+Payment Method: Wire Transfer
+Bank: Royal Bank of Canada (Branch Code: 370)
+Account Number: IDMF77080052641174
+Beneficiary: Stephen Turner
+Risk Score: Low
+45. Transaction ID: 11133c8f-fd56-42f8-9d3b-afb4270f66be
+Transaction Date: 10/28/2025
+Value Date: 10/30/2025
+Posting Date: 10/31/2025
+Vendor: Gerlach Sauer GbR (ID: VND-23069)
+Invoice: INV-277451 | PO: PO-9021
+Amount: 2,161.73 VEF
+Payment Method: Check
+Bank: BNP Paribas (Branch Code: 313)
+Account Number: 32901940295515106124909
+Beneficiary: Ann Barnes
+Risk Score: Medium
+46. Transaction ID: 74fe8f18-6e6d-4c80-b46e-b124ac4d7171
+Transaction Date: 05/07/2025
+Value Date: 05/07/2025
+Posting Date: 05/12/2025
+Vendor: Dumont (ID: VND-25469)
+Invoice: INV-298241 | PO: PO-7873
+Amount: 37,303.60 AWG
+Payment Method: Credit Card
+Bank: Deutsche Bank (Branch Code: 844)
+Account Number: 948980674712502370
+Beneficiary: Christophe Olivier
+Risk Score: Low
+47. Transaction ID: 8ccc08d9-beec-48ee-83d0-cda84a69a0cd
+Transaction Date: 03/07/2025
+Value Date: 03/07/2025
+Posting Date: 03/10/2025
+Vendor: Reichmann KGaA (ID: VND-61612)
+Invoice: INV-771710 | PO: PO-9412
+Amount: 30,591.93 ZWD
+Payment Method: Check
+Bank: UBS Group (Branch Code: 231)
+Account Number: 36479884473065778111187
+Beneficiary: Mr Raymond Begum
+Risk Score: Low
+48. Transaction ID: 345b9621-968a-4d3f-9684-98d581668506
+Transaction Date: 09/27/2025
+Value Date: 09/27/2025
+Posting Date: 09/27/2025
+Vendor: Patterson-Robinson (ID: VND-21401)
+Invoice: INV-923824 | PO: PO-8225
+Amount: 5,197.53 VND
+Payment Method: ACH
+Bank: Citigroup (Branch Code: 362)
+Account Number: UAZS99455122824410
+Beneficiary: Dr. Lisette Adolph
+Risk Score: Critical
+49. Transaction ID: 036e3491-14e3-49ee-81b7-e6f5793be19c
+Transaction Date: 10/11/2025
+Value Date: 10/12/2025
+Posting Date: 10/16/2025
+Vendor: Harding LLC (ID: VND-87895)
+Invoice: INV-676676 | PO: PO-6274
+Amount: 12,773.52 JEP
+Payment Method: SEPA
+Bank: NatWest Group (Branch Code: 443)
+Account Number: 959967045097064582
+Beneficiary: Harri Bien
+Risk Score: Low
+50. Transaction ID: e7aea5be-e344-4187-b1a5-114b38fca20b
+Transaction Date: 01/07/2026
+Value Date: 01/09/2026
+Posting Date: 01/14/2026
+Vendor: Dörr AG & Co. KGaA (ID: VND-28502)
+Invoice: INV-508757 | PO: PO-7690
+Amount: 49,872.23 SDG
+Payment Method: Check
+Bank: Wells Fargo (Branch Code: 983)
+Account Number: 48194756581630531220517
+Beneficiary: Zacharie-David Briand
+Risk Score: Critical
+51. Transaction ID: 5354f1ae-6848-49b5-b309-0679549a72c3
+Transaction Date: 10/07/2025
+Value Date: 10/08/2025
+Posting Date: 10/09/2025
+Vendor: Robin (ID: VND-87006)
+Invoice: INV-995850 | PO: PO-8633
+Amount: 44,513.68 BBD
+Payment Method: SEPA
+Bank: HSBC Holdings (Branch Code: 314)
+Account Number: PEYC00700921169920
+Beneficiary: Mr Patrick Pritchard
+Risk Score: Medium
+52. Transaction ID: 53c8496e-7709-45eb-bf05-805d7bb89038
+Transaction Date: 04/23/2025
+Value Date: 04/23/2025
+Posting Date: 04/27/2025
+Vendor: Roche S.A.R.L. (ID: VND-37743)
+Invoice: INV-645847 | PO: PO-8360
+Amount: 43,512.60 COP
+Payment Method: ACH
+Bank: Bank of America (Branch Code: 402)
+Account Number: 492468610936449673
+Beneficiary: Dr Ellie Hughes
+Risk Score: Critical
+53. Transaction ID: f625ef1e-4832-43ef-802d-c917e3994f58
+Transaction Date: 05/31/2025
+Value Date: 06/02/2025
+Posting Date: 06/04/2025
+Vendor: Hughes-Long (ID: VND-52047)
+Invoice: INV-499647 | PO: PO-8278
+Amount: 32,629.74 SCR
+Payment Method: ACH
+Bank: Société Générale (Branch Code: 103)
+Account Number: JSLL70620245535348
+Beneficiary: Paul Saunders
+Risk Score: Low
+54. Transaction ID: be0e402c-e5b5-41e2-b466-4d9e171e5765
+Transaction Date: 06/28/2025
+Value Date: 06/29/2025
+Posting Date: 07/04/2025
+Vendor: Aumann Heß AG (ID: VND-42154)
+Invoice: INV-935540 | PO: PO-6675
+Amount: 47,509.69 THB
+Payment Method: SEPA
+Bank: Banco Santander (Branch Code: 759)
+Account Number: MELC69479084015746
+Beneficiary: Dr Ben Sinclair
+Risk Score: Low
+55. Transaction ID: 1b9ce763-9a21-4e96-89c0-60214f243edf
+Transaction Date: 10/10/2025
+Value Date: 10/10/2025
+Posting Date: 10/13/2025
+Vendor: Parker-Smith (ID: VND-43445)
+Invoice: INV-270258 | PO: PO-5217
+Amount: 25,061.78 HKD
+Payment Method: Wire Transfer
+Bank: Wells Fargo (Branch Code: 832)
+Account Number: BLAR68206809405148
+Beneficiary: Else Hövel
+Risk Score: Medium
+56. Transaction ID: 4b9af460-ccbc-4b5a-950e-1f3c4372e902
+Transaction Date: 12/05/2025
+Value Date: 12/07/2025
+Posting Date: 12/11/2025
+Vendor: Wagner (ID: VND-45414)
+Invoice: INV-915169 | PO: PO-5246
+Amount: 16,880.33 SYP
+Payment Method: ACH
+Bank: Banco Santander (Branch Code: 938)
+Account Number: 727432211910614204
+Beneficiary: Vanessa Miller
+Risk Score: Critical
+57. Transaction ID: e87e78f8-3377-4bea-ba14-846d802033b8
+Transaction Date: 11/21/2025
+Value Date: 11/23/2025
+Posting Date: 11/23/2025
+Vendor: Zorbach (ID: VND-97536)
+Invoice: INV-653381 | PO: PO-9136
+Amount: 16,646.35 HUF
+Payment Method: Check
+Bank: HSBC Holdings (Branch Code: 327)
+Account Number: VVRS80567343049276
+Beneficiary: Dipl.-Ing. Gretchen Hering
+Risk Score: High
+58. Transaction ID: 110f1641-61dc-4ab0-b3d8-37688fa5904a
+Transaction Date: 11/22/2025
+Value Date: 11/24/2025
+Posting Date: 11/28/2025
+Vendor: Vasseur (ID: VND-78898)
+Invoice: INV-349095 | PO: PO-5325
+Amount: 19,424.74 UGX
+Payment Method: Credit Card
+Bank: Deutsche Bank (Branch Code: 151)
+Account Number: 53080328289328214298986
+Beneficiary: Andrea Jenkins
+Risk Score: Medium
+59. Transaction ID: 7c490484-849b-4b31-ae34-22193a95ce8c
+Transaction Date: 03/13/2025
+Value Date: 03/15/2025
+Posting Date: 03/19/2025
+Vendor: Garnier Bigot et Fils (ID: VND-85972)
+Invoice: INV-731206 | PO: PO-9215
+Amount: 46,823.54 TJS
+Payment Method: Check
+Bank: Bank of America (Branch Code: 941)
+Account Number: 69618363429755199012684
+Beneficiary: Dr Lawrence Smith
+Risk Score: Low
+60. Transaction ID: ce19d8d8-920e-42d9-861c-60eed2f58413
+Transaction Date: 11/08/2025
+Value Date: 11/10/2025
+Posting Date: 11/15/2025
+Vendor: Jimenez-Murphy (ID: VND-39476)
+Invoice: INV-322408 | PO: PO-8342
+Amount: 19,576.85 KYD
+Payment Method: Wire Transfer
+Bank: Royal Bank of Canada (Branch Code: 346)
+Account Number: 91916741329485416634553
+Beneficiary: Johanna Ehlert-Liebelt
+Risk Score: Medium
+61. Transaction ID: bb5dd567-d001-49f7-95d6-3d2218a2bd10
+Transaction Date: 11/26/2025
+Value Date: 11/27/2025
+Posting Date: 12/02/2025
+Vendor: Evans-Roberts (ID: VND-41150)
+Invoice: INV-189929 | PO: PO-6727
+Amount: 28,109.63 ETB
+Payment Method: SEPA
+Bank: HSBC Holdings (Branch Code: 668)
+Account Number: MVWD83797104056056
+Beneficiary: Andrea Cross-Ball
+Risk Score: Medium
+62. Transaction ID: fe047dcf-831c-47a5-bd06-0de33eeafff9
+Transaction Date: 01/01/2026
+Value Date: 01/03/2026
+Posting Date: 01/03/2026
+Vendor: Higgins, Khan and Berry (ID: VND-73400)
+Invoice: INV-640324 | PO: PO-9834
+Amount: 43,204.64 XPF
+Payment Method: SEPA
+Bank: HSBC Holdings (Branch Code: 453)
+Account Number: UMAP74891097901102
+Beneficiary: Univ.Prof. Hansjörg Geißler
+Risk Score: Critical
+63. Transaction ID: 5d6641b8-2233-46d8-8c3d-49f8304d00ed
+Transaction Date: 09/14/2025
+Value Date: 09/15/2025
+Posting Date: 09/20/2025
+Vendor: Norton Inc (ID: VND-48185)
+Invoice: INV-372112 | PO: PO-8269
+Amount: 37,547.05 IRR
+Payment Method: ACH
+Bank: UBS Group (Branch Code: 972)
+Account Number: JPKZ73742927165949
+Beneficiary: Nicholas Torres
+Risk Score: Low
+64. Transaction ID: 8439581a-f85a-4ed7-a556-99d0cb5f9c13
+Transaction Date: 04/25/2025
+Value Date: 04/26/2025
+Posting Date: 05/01/2025
+Vendor: Besnard Munoz SA (ID: VND-16820)
+Invoice: INV-157635 | PO: PO-8161
+Amount: 4,490.00 MZN
+Payment Method: ACH
+Bank: Barclays (Branch Code: 444)
+Account Number: DYHI99834371371163
+Beneficiary: William Mathis
+Risk Score: Medium
+65. Transaction ID: febf65c3-27f2-412b-a730-0029a014627e
+Transaction Date: 06/01/2025
+Value Date: 06/03/2025
+Posting Date: 06/03/2025
+Vendor: Cruz, Daniel and Dickson (ID: VND-26625)
+Invoice: INV-205999 | PO: PO-9844
+Amount: 34,561.64 AUD
+Payment Method: Check
+Bank: NatWest Group (Branch Code: 620)
+Account Number: 95418413458781179172579
+Beneficiary: Brittany Johnson
+Risk Score: Medium
+66. Transaction ID: ade78dab-beee-4598-b7f4-e53c450e6da5
+Transaction Date: 04/11/2025
+Value Date: 04/11/2025
+Posting Date: 04/11/2025
+Vendor: Anderson-Dobson (ID: VND-55348)
+Invoice: INV-115863 | PO: PO-8167
+Amount: 23,935.38 KHR
+Payment Method: Credit Card
+Bank: UBS Group (Branch Code: 277)
+Account Number: 81265467303784274985344
+Beneficiary: Xavier du Buisson
+Risk Score: Medium
+67. Transaction ID: 68fc141a-7229-4863-81e9-aff0ba20781c
+Transaction Date: 05/08/2025
+Value Date: 05/08/2025
+Posting Date: 05/10/2025
+Vendor: Hofmann (ID: VND-60884)
+Invoice: INV-417047 | PO: PO-6330
+Amount: 5,000.56 PYG
+Payment Method: SEPA
+Bank: Wells Fargo (Branch Code: 139)
+Account Number: 59169798721020070976409
+Beneficiary: Oliver Evans
+Risk Score: Low
+68. Transaction ID: c0d7d86c-e506-4002-a121-3c1ac2aec026
+Transaction Date: 01/03/2026
+Value Date: 01/03/2026
+Posting Date: 01/04/2026
+Vendor: Casey-Harris (ID: VND-57544)
+Invoice: INV-272187 | PO: PO-6643
+Amount: 41,742.73 BTN
+Payment Method: Credit Card
+Bank: HSBC Holdings (Branch Code: 681)
+Account Number: QVNU88306725947857
+Beneficiary: René Renaud
+Risk Score: Low
+69. Transaction ID: bade6e02-db6f-4ed5-b587-a00e1b8121e2
+Transaction Date: 10/14/2025
+Value Date: 10/15/2025
+Posting Date: 10/18/2025
+Vendor: Johnson-Allan (ID: VND-12812)
+Invoice: INV-582468 | PO: PO-8013
+Amount: 22,540.18 CNY
+Payment Method: Check
+Bank: Barclays (Branch Code: 814)
+Account Number: GTRK64736903043834
+Beneficiary: Jennifer Cook
+Risk Score: High
+70. Transaction ID: 87f35055-18d6-4b26-b6b0-ead0326b1eaf
+Transaction Date: 12/13/2025
+Value Date: 12/14/2025
+Posting Date: 12/15/2025
+Vendor: Hart Inc (ID: VND-72805)
+Invoice: INV-734249 | PO: PO-7281
+Amount: 26,158.03 KHR
+Payment Method: ACH
+Bank: Credit Suisse (Branch Code: 786)
+Account Number: RKTC95471026491862
+Beneficiary: Olivier Le Mercier
+Risk Score: Low
+71. Transaction ID: 5d555c1a-c89f-4504-b606-be4757930333
+Transaction Date: 09/20/2025
+Value Date: 09/21/2025
+Posting Date: 09/22/2025
+Vendor: Slater, McCarthy and Gordon (ID: VND-31976)
+Invoice: INV-330388 | PO: PO-7605
+Amount: 48,855.10 GNF
+Payment Method: Credit Card
+Bank: Royal Bank of Canada (Branch Code: 646)
+Account Number: 48276065270886882888599
+Beneficiary: David Stewart
+Risk Score: Critical
+72. Transaction ID: 776ce146-1742-473d-9474-5ec45ecce999
+Transaction Date: 07/07/2025
+Value Date: 07/08/2025
+Posting Date: 07/12/2025
+Vendor: Ebert Hövel AG & Co. KGaA (ID: VND-77825)
+Invoice: INV-632721 | PO: PO-5951
+Amount: 17,208.52 KHR
+Payment Method: Credit Card
+Bank: Wells Fargo (Branch Code: 952)
+Account Number: FCMU84782131646118
+Beneficiary: Dale Yates
+Risk Score: High
+73. Transaction ID: 19b4bbc6-12a7-4dca-9714-d70d68fb649b
+Transaction Date: 08/12/2025
+Value Date: 08/14/2025
+Posting Date: 08/14/2025
+Vendor: Martin-Perez (ID: VND-81527)
+Invoice: INV-334737 | PO: PO-8636
+Amount: 41,768.17 VUV
+Payment Method: SEPA
+Bank: UBS Group (Branch Code: 345)
+Account Number: 633174651089028706
+Beneficiary: Hartmuth Meyer
+Risk Score: Medium
+74. Transaction ID: 78ed2992-9071-4425-99de-0ab0dda3870a
+Transaction Date: 03/08/2025
+Value Date: 03/09/2025
+Posting Date: 03/13/2025
+Vendor: Navarro et Fils (ID: VND-57091)
+Invoice: INV-882613 | PO: PO-8259
+Amount: 32,578.81 PLN
+Payment Method: ACH
+Bank: Crédit Agricole (Branch Code: 934)
+Account Number: 711017746777339182
+Beneficiary: Christopher Miller
+Risk Score: High
+75. Transaction ID: 6c51e212-f717-43d2-b7cf-548697668c10
+Transaction Date: 05/26/2025
+Value Date: 05/27/2025
+Posting Date: 05/30/2025
+Vendor: Dörr (ID: VND-48551)
+Invoice: INV-992278 | PO: PO-5105
+Amount: 46,761.99 PAB
+Payment Method: Wire Transfer
+Bank: Société Générale (Branch Code: 637)
+Account Number: 100715109981922635
+Beneficiary: Honoré Leclercq
+Risk Score: Low
+76. Transaction ID: aa8e2a7a-1df0-47d8-b016-f87fa1b02696
+Transaction Date: 01/29/2026
+Value Date: 01/31/2026
+Posting Date: 01/31/2026
+Vendor: Reichmann GmbH (ID: VND-32077)
+Invoice: INV-749032 | PO: PO-5202
+Amount: 9,833.12 TND
+Payment Method: SEPA
+Bank: HSBC Holdings (Branch Code: 666)
+Account Number: 25684481968840885214058
+Beneficiary: H.-Dieter Hesse-Jähn
+Risk Score: Low
+77. Transaction ID: b5351c5d-f6a3-407f-ab9e-dde67e1fa767
+Transaction Date: 07/29/2025
+Value Date: 07/31/2025
+Posting Date: 08/04/2025
+Vendor: Ward-Day (ID: VND-51890)
+Invoice: INV-147065 | PO: PO-7938
+Amount: 2,109.93 LTL
+Payment Method: SEPA
+Bank: HSBC Holdings (Branch Code: 347)
+Account Number: 10714886857367849480100
+Beneficiary: Vanessa Holland
+Risk Score: High
+78. Transaction ID: 1256c743-9fda-499e-af71-f781bb3a98bf
+Transaction Date: 06/14/2025
+Value Date: 06/16/2025
+Posting Date: 06/17/2025
+Vendor: Alexander, Jackson and Gray (ID: VND-64552)
+Invoice: INV-146292 | PO: PO-8956
+Amount: 15,695.25 LAK
+Payment Method: SEPA
+Bank: Credit Suisse (Branch Code: 197)
+Account Number: PZED49160431297175
+Beneficiary: Jeanne Normand
+Risk Score: Low
+79. Transaction ID: 5a277071-0b30-459a-b418-d57b02ef21e4
+Transaction Date: 06/13/2025
+Value Date: 06/13/2025
+Posting Date: 06/13/2025
+Vendor: Welch-Greene (ID: VND-84425)
+Invoice: INV-202431 | PO: PO-7312
+Amount: 14,741.44 BMD
+Payment Method: Credit Card
+Bank: Crédit Agricole (Branch Code: 249)
+Account Number: 130937557840385399
+Beneficiary: Heinz-Walter Schlosser
+Risk Score: Medium
+80. Transaction ID: 3e549fef-1168-4fa1-b2a3-9b090120ff0c
+Transaction Date: 12/03/2025
+Value Date: 12/05/2025
+Posting Date: 12/07/2025
+Vendor: Austin-Baker (ID: VND-60826)
+Invoice: INV-873318 | PO: PO-8594
+Amount: 47,303.37 MAD
+Payment Method: Check
+Bank: Citigroup (Branch Code: 836)
+Account Number: 87703601095403261794789
+Beneficiary: Ms Pauline Collins
+Risk Score: Medium
+81. Transaction ID: 49ee4c71-f8c6-4144-9db8-f9bbd8f2bf74
+Transaction Date: 06/23/2025
+Value Date: 06/23/2025
+Posting Date: 06/26/2025
+Vendor: Mitschke (ID: VND-13249)
+Invoice: INV-821490 | PO: PO-6233
+Amount: 15,806.17 XPF
+Payment Method: ACH
+Bank: Crédit Agricole (Branch Code: 275)
+Account Number: 93842203210365914748200
+Beneficiary: Nicholas Curtis
+Risk Score: Medium
+82. Transaction ID: 7d0e5078-e57c-4c2e-b47b-dd140f484fcd
+Transaction Date: 04/21/2025
+Value Date: 04/21/2025
+Posting Date: 04/21/2025
+Vendor: Becker (ID: VND-79505)
+Invoice: INV-634015 | PO: PO-8271
+Amount: 46,136.13 KZT
+Payment Method: Wire Transfer
+Bank: Banco Santander (Branch Code: 172)
+Account Number: 42266564662549648503150
+Beneficiary: Benoît Godard
+Risk Score: Medium
+83. Transaction ID: c508f82e-ace1-4def-853c-06e158c3914c
+Transaction Date: 08/29/2025
+Value Date: 08/31/2025
+Posting Date: 09/05/2025
+Vendor: Drub AG (ID: VND-78087)
+Invoice: INV-876944 | PO: PO-5023
+Amount: 24,870.75 SCR
+Payment Method: Wire Transfer
+Bank: BNP Paribas (Branch Code: 324)
+Account Number: QTNH76852188402476
+Beneficiary: Christopher Wheeler
+Risk Score: High
+84. Transaction ID: fa522db0-147f-4866-9f92-a34066856fcc
+Transaction Date: 08/03/2025
+Value Date: 08/03/2025
+Posting Date: 08/04/2025
+Vendor: Werner Reising GmbH (ID: VND-60308)
+Invoice: INV-762060 | PO: PO-8445
+Amount: 43,580.08 AFN
+Payment Method: SEPA
+Bank: Morgan Stanley (Branch Code: 160)
+Account Number: ERTK56281717182138
+Beneficiary: Rachel Burch
+Risk Score: Critical
+85. Transaction ID: 7926f690-1ede-433d-8d54-2dc5041a38b0
+Transaction Date: 01/01/2026
+Value Date: 01/02/2026
+Posting Date: 01/02/2026
+Vendor: Pugh, Humphries and Harris (ID: VND-21746)
+Invoice: INV-420371 | PO: PO-5238
+Amount: 21,148.69 GIP
+Payment Method: Check
+Bank: UBS Group (Branch Code: 542)
+Account Number: 45799141510233594692532
+Beneficiary: Lucas-Marcel Ollivier
+Risk Score: Medium
+86. Transaction ID: 67eff160-68eb-4aff-afc7-8d5f0dee1bdc
+Transaction Date: 08/07/2025
+Value Date: 08/07/2025
+Posting Date: 08/08/2025
+Vendor: Woodward, Hall and Lewis (ID: VND-29377)
+Invoice: INV-473737 | PO: PO-8804
+Amount: 25,816.04 TND
+Payment Method: Check
+Bank: Credit Suisse (Branch Code: 785)
+Account Number: 034006190730008947
+Beneficiary: Herr Daniel Kühnert
+Risk Score: Critical
+87. Transaction ID: 711ca0f0-e53a-4c33-ad95-7c1edab8cd23
+Transaction Date: 09/28/2025
+Value Date: 09/30/2025
+Posting Date: 10/04/2025
+Vendor: De Oliveira Chartier S.A. (ID: VND-85213)
+Invoice: INV-335542 | PO: PO-5074
+Amount: 26,231.99 MUR
+Payment Method: SEPA
+Bank: Barclays (Branch Code: 765)
+Account Number: OHMJ65792371333346
+Beneficiary: Philip Smith
+Risk Score: Medium
+88. Transaction ID: 46319003-7de2-42f7-a60d-96e4ad48c579
+Transaction Date: 11/16/2025
+Value Date: 11/17/2025
+Posting Date: 11/20/2025
+Vendor: Plath (ID: VND-87646)
+Invoice: INV-185617 | PO: PO-7943
+Amount: 31,737.85 DJF
+Payment Method: SEPA
+Bank: JPMorgan Chase (Branch Code: 876)
+Account Number: NSLG38860314205316
+Beneficiary: Paul Matthews
+Risk Score: Medium
+89. Transaction ID: e37b9989-6108-4611-9d1a-83e35c00f674
+Transaction Date: 01/12/2026
+Value Date: 01/12/2026
+Posting Date: 01/14/2026
+Vendor: Stone, Dunn and Stevenson (ID: VND-59193)
+Invoice: INV-130246 | PO: PO-7576
+Amount: 8,462.25 MOP
+Payment Method: ACH
+Bank: UBS Group (Branch Code: 105)
+Account Number: NXHJ11547850038162
+Beneficiary: Céline Durand
+Risk Score: High
+90. Transaction ID: 547e4f60-b598-4a7e-a67c-89356cb0c220
+Transaction Date: 07/27/2025
+Value Date: 07/27/2025
+Posting Date: 07/29/2025
+Vendor: Vaillant (ID: VND-38103)
+Invoice: INV-173806 | PO: PO-8853
+Amount: 42,673.46 DOP
+Payment Method: ACH
+Bank: Banco Santander (Branch Code: 495)
+Account Number: 262382082200422844
+Beneficiary: Gislinde Caspar
+Risk Score: High
+91. Transaction ID: e9f447f5-629b-4bbc-a259-a6566fa9cbd8
+Transaction Date: 07/26/2025
+Value Date: 07/26/2025
+Posting Date: 07/31/2025
+Vendor: Noack (ID: VND-95655)
+Invoice: INV-341496 | PO: PO-5610
+Amount: 41,916.33 ZAR
+Payment Method: Credit Card
+Bank: Banco Santander (Branch Code: 327)
+Account Number: 86313301337321612171159
+Beneficiary: Alberto Holzapfel
+Risk Score: Low
+92. Transaction ID: 087b87e4-0700-49bb-ba13-a530c4f0c2d8
+Transaction Date: 12/13/2025
+Value Date: 12/14/2025
+Posting Date: 12/14/2025
+Vendor: Cohen Aubert S.A. (ID: VND-73682)
+Invoice: INV-474563 | PO: PO-7827
+Amount: 30,190.08 BMD
+Payment Method: Check
+Bank: Société Générale (Branch Code: 376)
+Account Number: RPYL18736648292231
+Beneficiary: Ulrike Sorgatz
+Risk Score: High
+93. Transaction ID: ceef2fa4-0a02-44c5-a64b-f10624a2675d
+Transaction Date: 10/10/2025
+Value Date: 10/12/2025
+Posting Date: 10/17/2025
+Vendor: Hayward-Evans (ID: VND-60427)
+Invoice: INV-384830 | PO: PO-5380
+Amount: 44,828.44 CAD
+Payment Method: Check
+Bank: Crédit Agricole (Branch Code: 877)
+Account Number: 431051220296500104
+Beneficiary: Miss Rosemary Coleman
+Risk Score: Medium
+94. Transaction ID: 15095c94-6fb0-4a98-be11-8866c743ba5b
+Transaction Date: 09/20/2025
+Value Date: 09/21/2025
+Posting Date: 09/26/2025
+Vendor: Oestrovsky (ID: VND-93416)
+Invoice: INV-211936 | PO: PO-5652
+Amount: 41,908.14 BIF
+Payment Method: ACH
+Bank: Toronto-Dominion Bank (Branch Code: 452)
+Account Number: MNYB99631598473459
+Beneficiary: Amanda Yates
+Risk Score: High
+95. Transaction ID: ad15c7f7-f0e2-40d9-b0e8-11af850980af
+Transaction Date: 12/22/2025
+Value Date: 12/24/2025
+Posting Date: 12/28/2025
+Vendor: Chevallier (ID: VND-88398)
+Invoice: INV-942052 | PO: PO-6851
+Amount: 27,401.96 OMR
+Payment Method: SEPA
+Bank: Goldman Sachs (Branch Code: 358)
+Account Number: SMIO24385847043098
+Beneficiary: Marguerite Allard Le Hervé
+Risk Score: High
+96. Transaction ID: 72238ec6-4f8d-4cd3-9506-a44ef3ca2a6e
+Transaction Date: 05/13/2025
+Value Date: 05/13/2025
+Posting Date: 05/13/2025
+Vendor: Smith-Bruce (ID: VND-68214)
+Invoice: INV-186186 | PO: PO-5951
+Amount: 21,473.82 KWD
+Payment Method: SEPA
+Bank: Deutsche Bank (Branch Code: 905)
+Account Number: 880879001010246517
+Beneficiary: Fiona Skinner
+Risk Score: High
+97. Transaction ID: d933c593-00cc-433b-b4a0-b773a5800ac2
+Transaction Date: 06/03/2025
+Value Date: 06/03/2025
+Posting Date: 06/07/2025
+Vendor: Hall, Davey and Nicholson (ID: VND-57168)
+Invoice: INV-472209 | PO: PO-5889
+Amount: 48,679.75 FJD
+Payment Method: Check
+Bank: Crédit Agricole (Branch Code: 338)
+Account Number: 13296175812833945821855
+Beneficiary: Martin de la Lejeune
+Risk Score: Critical
+98. Transaction ID: e90a256f-dcfa-4419-840f-788740435319
+Transaction Date: 05/21/2025
+Value Date: 05/23/2025
+Posting Date: 05/27/2025
+Vendor: Carpentier Berthelot S.A.R.L. (ID: VND-34190)
+Invoice: INV-553559 | PO: PO-9039
+Amount: 18,263.64 TZS
+Payment Method: SEPA
+Bank: Banco Santander (Branch Code: 143)
+Account Number: SONV25929059160536
+Beneficiary: Marcus Edwards
+Risk Score: High
+99. Transaction ID: bcf73f24-5e31-4ddb-8ba6-9a60905848d3
+Transaction Date: 02/23/2025
+Value Date: 02/24/2025
+Posting Date: 02/27/2025
+Vendor: Sölzer Briemer KG (ID: VND-29301)
+Invoice: INV-278345 | PO: PO-5277
+Amount: 21,384.17 VND
+Payment Method: Check
+Bank: Deutsche Bank (Branch Code: 226)
+Account Number: 50954844904746994187934
+Beneficiary: Luke Gardiner
+Risk Score: Low
+100. Transaction ID: f4645bda-7508-4274-aa97-f9d09213773b
+Transaction Date: 12/14/2025
+Value Date: 12/14/2025
+Posting Date: 12/19/2025
+Vendor: Newman LLC (ID: VND-85214)
+Invoice: INV-195790 | PO: PO-8137
+Amount: 7,691.60 WST
+Payment Method: SEPA
+Bank: Toronto-Dominion Bank (Branch Code: 934)
+Account Number: TKOL08656102729222
+Beneficiary: Brandon Edwards
+Risk Score: High
+101. Transaction ID: 6ca8996a-862c-4a37-8a17-9ad79caead4a
+Transaction Date: 10/04/2025
+Value Date: 10/05/2025
+Posting Date: 10/08/2025
+Vendor: Carr Inc (ID: VND-22325)
+Invoice: INV-813645 | PO: PO-7560
+Amount: 873.68 BWP
+Payment Method: Wire Transfer
+Bank: Société Générale (Branch Code: 539)
+Account Number: 660572948214234106
+Beneficiary: Jayne O'Sullivan
+Risk Score: Critical
+102. Transaction ID: 8bbf2055-46d8-4da0-87b5-0bd67037cb0a
+Transaction Date: 08/23/2025
+Value Date: 08/25/2025
+Posting Date: 08/29/2025
+Vendor: Pierre Baudry S.A.S. (ID: VND-90403)
+Invoice: INV-260270 | PO: PO-7262
+Amount: 36,442.58 BDT
+Payment Method: SEPA
+Bank: Royal Bank of Canada (Branch Code: 811)
+Account Number: 16011884900596376874772
+Beneficiary: Marine Lamy
+Risk Score: Low
+103. Transaction ID: 6282c1a1-fc53-4370-ad80-ef25aac33123
+Transaction Date: 07/09/2025
+Value Date: 07/09/2025
+Posting Date: 07/14/2025
+Vendor: Miller PLC (ID: VND-58663)
+Invoice: INV-752588 | PO: PO-8263
+Amount: 24,871.05 ISK
+Payment Method: Wire Transfer
+Bank: Royal Bank of Canada (Branch Code: 217)
+Account Number: WCNY77519782034790
+Beneficiary: Dominik Gude
+Risk Score: Low
+104. Transaction ID: e6855aa7-6971-4b17-a723-3b1a85b86c30
+Transaction Date: 07/20/2025
+Value Date: 07/20/2025
+Posting Date: 07/24/2025
+Vendor: Fletcher, Gordon and Taylor (ID: VND-61282)
+Invoice: INV-481440 | PO: PO-8722
+Amount: 5,880.43 ISK
+Payment Method: Wire Transfer
+Bank: Toronto-Dominion Bank (Branch Code: 833)
+Account Number: 52071888959264761372391
+Beneficiary: Benjamin Ellison
+Risk Score: Medium
+105. Transaction ID: cec870f1-45fa-4cf5-9cdd-7d56de29f451
+Transaction Date: 11/25/2025
+Value Date: 11/26/2025
+Posting Date: 11/27/2025
+Vendor: Wohlgemut Hecker e.V. (ID: VND-66885)
+Invoice: INV-997670 | PO: PO-9506
+Amount: 29,213.57 NPR
+Payment Method: SEPA
+Bank: Goldman Sachs (Branch Code: 327)
+Account Number: 907232882692851448
+Beneficiary: Anne Jackson
+Risk Score: Medium
+106. Transaction ID: 404b59e4-9cfd-4211-aaaa-c7f135837933
+Transaction Date: 10/03/2025
+Value Date: 10/05/2025
+Posting Date: 10/07/2025
+Vendor: Holmes PLC (ID: VND-34400)
+Invoice: INV-820063 | PO: PO-7681
+Amount: 32,777.99 LSL
+Payment Method: Wire Transfer
+Bank: NatWest Group (Branch Code: 353)
+Account Number: 89225680603356226630703
+Beneficiary: Hanns Sontag-Sauer
+Risk Score: Critical
+107. Transaction ID: 16e54533-a9cc-431e-b3fb-6f90e8faedc9
+Transaction Date: 09/14/2025
+Value Date: 09/14/2025
+Posting Date: 09/15/2025
+Vendor: Lemoine Godard S.A.R.L. (ID: VND-98691)
+Invoice: INV-361613 | PO: PO-5577
+Amount: 49,111.38 TND
+Payment Method: Check
+Bank: Deutsche Bank (Branch Code: 977)
+Account Number: 67833291571441967709801
+Beneficiary: Gisela Hering
+Risk Score: Low
+108. Transaction ID: caef7d2e-16e5-4535-a361-8db3bbf01230
+Transaction Date: 02/01/2026
+Value Date: 02/01/2026
+Posting Date: 02/05/2026
+Vendor: Bauer (ID: VND-70481)
+Invoice: INV-724278 | PO: PO-8062
+Amount: 15,347.35 AOA
+Payment Method: Check
+Bank: UBS Group (Branch Code: 444)
+Account Number: 87231187209638571000980
+Beneficiary: Lori Castro
+Risk Score: Critical
+109. Transaction ID: 3f3b04f0-9705-4185-bcbb-d5828a5afab1
+Transaction Date: 06/27/2025
+Value Date: 06/27/2025
+Posting Date: 06/28/2025
+Vendor: Hutchinson, Mcneil and Neal (ID: VND-79353)
+Invoice: INV-194420 | PO: PO-8956
+Amount: 46,663.56 ZWD
+Payment Method: Check
+Bank: NatWest Group (Branch Code: 493)
+Account Number: BUCY00582836852355
+Beneficiary: Benoît Mallet
+Risk Score: Critical
+110. Transaction ID: e5cd4ec8-b6af-4e88-a5da-61785e21d01e
+Transaction Date: 12/14/2025
+Value Date: 12/15/2025
+Posting Date: 12/19/2025
+Vendor: Clarke, Carroll and Adams (ID: VND-80111)
+Invoice: INV-259252 | PO: PO-6480
+Amount: 42,160.92 SEK
+Payment Method: Check
+Bank: Citigroup (Branch Code: 886)
+Account Number: 48681543485631004072236
+Beneficiary: Suzanne Maillot-Guichard
+Risk Score: Low
+111. Transaction ID: bd2b926f-2fcf-4569-add0-aa599e12ca46
+Transaction Date: 02/22/2025
+Value Date: 02/23/2025
+Posting Date: 02/23/2025
+Vendor: Henderson Inc (ID: VND-58387)
+Invoice: INV-574955 | PO: PO-5219
+Amount: 33,240.93 CUC
+Payment Method: ACH
+Bank: Deutsche Bank (Branch Code: 650)
+Account Number: OMWW45399952947986
+Beneficiary: Martine Salmon-Fischer
+Risk Score: Medium
+112. Transaction ID: 568f67c6-29b9-4be6-8f96-f1b473a57f1a
+Transaction Date: 12/31/2025
+Value Date: 01/02/2026
+Posting Date: 01/03/2026
+Vendor: Perez and Sons (ID: VND-25190)
+Invoice: INV-930261 | PO: PO-9066
+Amount: 36,329.95 GBP
+Payment Method: Wire Transfer
+Bank: UBS Group (Branch Code: 505)
+Account Number: 92112998011204196044095
+Beneficiary: Kristina Stewart
+Risk Score: High
+113. Transaction ID: f72a29e6-2f69-4201-91aa-8ab3aeff7d55
+Transaction Date: 02/14/2025
+Value Date: 02/16/2025
+Posting Date: 02/16/2025
+Vendor: Lynn Ltd (ID: VND-79685)
+Invoice: INV-585474 | PO: PO-6717
+Amount: 32,684.23 TZS
+Payment Method: Check
+Bank: NatWest Group (Branch Code: 682)
+Account Number: RTBT58739796262665
+Beneficiary: Bertrand Dufour
+Risk Score: Medium
+114. Transaction ID: e9f2d0bf-09d5-4a3f-90d9-fdee14cd68dc
+Transaction Date: 01/30/2026
+Value Date: 01/30/2026
+Posting Date: 01/30/2026
+Vendor: Schulz GbR (ID: VND-12416)
+Invoice: INV-861314 | PO: PO-5867
+Amount: 33,309.04 DOP
+Payment Method: Wire Transfer
+Bank: Banco Santander (Branch Code: 473)
+Account Number: TKRJ00307291627151
+Beneficiary: Frank Thomas
+Risk Score: Medium
+115. Transaction ID: 08f7c6e7-791c-4ff1-8de6-a0c3d8d63c99
+Transaction Date: 08/23/2025
+Value Date: 08/24/2025
+Posting Date: 08/24/2025
+Vendor: Mendès Muller S.A. (ID: VND-36430)
+Invoice: INV-557688 | PO: PO-6721
+Amount: 16,090.30 BRL
+Payment Method: Check
+Bank: Toronto-Dominion Bank (Branch Code: 484)
+Account Number: XUGJ62110871239296
+Beneficiary: Damien Kirk
+Risk Score: High
+116. Transaction ID: 9b81e685-c84a-4216-a758-e5c8e83de3d7
+Transaction Date: 12/16/2025
+Value Date: 12/18/2025
+Posting Date: 12/21/2025
+Vendor: Drake, Barnes and Rodgers (ID: VND-69736)
+Invoice: INV-770306 | PO: PO-5154
+Amount: 14,597.16 GMD
+Payment Method: Check
+Bank: Bank of America (Branch Code: 515)
+Account Number: 11538596754954228712537
+Beneficiary: Alexander Kidd
+Risk Score: High
+117. Transaction ID: b50da1ab-565e-492d-8b51-a081b426570f
+Transaction Date: 03/30/2025
+Value Date: 04/01/2025
+Posting Date: 04/05/2025
+Vendor: Barrett, Dunn and Dennis (ID: VND-16873)
+Invoice: INV-737122 | PO: PO-9242
+Amount: 47,269.59 KMF
+Payment Method: Credit Card
+Bank: NatWest Group (Branch Code: 988)
+Account Number: 14601462985692251782314
+Beneficiary: Hanno Speer
+Risk Score: Low
+118. Transaction ID: b2b3b139-4844-45d8-9666-811047deb966
+Transaction Date: 06/21/2025
+Value Date: 06/22/2025
+Posting Date: 06/25/2025
+Vendor: Johnson Group (ID: VND-32093)
+Invoice: INV-624977 | PO: PO-7848
+Amount: 42,586.94 MOP
+Payment Method: Check
+Bank: Crédit Agricole (Branch Code: 332)
+Account Number: 77182400262741372160389
+Beneficiary: Linus Seidel-Wilms
+Risk Score: High
+119. Transaction ID: 8c7eeb57-e16e-41e9-9e9f-08c7c54d5ce2
+Transaction Date: 06/24/2025
+Value Date: 06/24/2025
+Posting Date: 06/29/2025
+Vendor: Guérin (ID: VND-88974)
+Invoice: INV-111005 | PO: PO-9371
+Amount: 44,979.02 NIS
+Payment Method: Wire Transfer
+Bank: Goldman Sachs (Branch Code: 732)
+Account Number: 333403176659366461
+Beneficiary: Jacqueline Vincent
+Risk Score: High
+120. Transaction ID: f2545962-b9f5-4ee7-96fc-a52994bea6cc
+Transaction Date: 02/04/2026
+Value Date: 02/05/2026
+Posting Date: 02/06/2026
+Vendor: Schmiedecke (ID: VND-35040)
+Invoice: INV-437640 | PO: PO-8139
+Amount: 40,726.79 PYG
+Payment Method: Wire Transfer
+Bank: Goldman Sachs (Branch Code: 599)
+Account Number: IOTR27147443331657
+Beneficiary: Alla Löchel
+Risk Score: Critical
+121. Transaction ID: da82895e-56b2-44de-aeb4-729bb51711f2
+Transaction Date: 11/19/2025
+Value Date: 11/20/2025
+Posting Date: 11/22/2025
+Vendor: Buckley LLC (ID: VND-24024)
+Invoice: INV-653517 | PO: PO-7855
+Amount: 34,475.33 MZN
+Payment Method: SEPA
+Bank: Lloyds Banking Group (Branch Code: 329)
+Account Number: LYZF96895927391715
+Beneficiary: Margot Menard de la Jacob
+Risk Score: Critical
+122. Transaction ID: eeccf7dd-88ff-444b-b04b-86990d1f9658
+Transaction Date: 01/16/2026
+Value Date: 01/18/2026
+Posting Date: 01/21/2026
+Vendor: Lambert (ID: VND-40101)
+Invoice: INV-945593 | PO: PO-5051
+Amount: 41,270.43 NAD
+Payment Method: SEPA
+Bank: Deutsche Bank (Branch Code: 712)
+Account Number: 392974407160491109
+Beneficiary: Hildegunde Geisler-Gumprich
+Risk Score: High
+123. Transaction ID: e30b95f7-b0f5-404a-815e-4003d229318b
+Transaction Date: 07/15/2025
+Value Date: 07/17/2025
+Posting Date: 07/17/2025
+Vendor: Evans, Reyes and Mann (ID: VND-33310)
+Invoice: INV-431357 | PO: PO-9511
+Amount: 3,526.22 LBP
+Payment Method: Wire Transfer
+Bank: Credit Suisse (Branch Code: 968)
+Account Number: 14353121367020806483205
+Beneficiary: Amélie Humbert du Leroy
+Risk Score: High
+124. Transaction ID: 3760caf1-3ec9-407e-8ebe-95e8906ffcda
+Transaction Date: 04/08/2025
+Value Date: 04/10/2025
+Posting Date: 04/11/2025
+Vendor: Turner, Hughes and Khan (ID: VND-90060)
+Invoice: INV-635127 | PO: PO-8180
+Amount: 3,227.16 FKP
+Payment Method: Wire Transfer
+Bank: Royal Bank of Canada (Branch Code: 597)
+Account Number: RFDC70752182773218
+Beneficiary: Marissa Rice
+Risk Score: Critical
+125. Transaction ID: 33fe7342-4edd-4e92-864c-c33b9ce1bcb3
+Transaction Date: 11/20/2025
+Value Date: 11/20/2025
+Posting Date: 11/24/2025
+Vendor: Castillo, Vaughn and Lynn (ID: VND-18706)
+Invoice: INV-761320 | PO: PO-9869
+Amount: 17,200.81 MDL
+Payment Method: Check
+Bank: Royal Bank of Canada (Branch Code: 616)
+Account Number: WTOG68093838476499
+Beneficiary: Jasmine Waters
+Risk Score: Medium
+126. Transaction ID: 8278fcdb-ef77-435b-82d1-82d35953a80a
+Transaction Date: 09/09/2025
+Value Date: 09/09/2025
+Posting Date: 09/12/2025
+Vendor: Pruschke (ID: VND-60301)
+Invoice: INV-476676 | PO: PO-7845
+Amount: 17,788.61 ALL
+Payment Method: Credit Card
+Bank: Commerzbank (Branch Code: 649)
+Account Number: UDIZ51367295649279
+Beneficiary: Dr Brandon Robinson
+Risk Score: Critical
+127. Transaction ID: 4c7dee8a-411e-48b4-b11a-f201263109cd
+Transaction Date: 01/15/2026
+Value Date: 01/15/2026
+Posting Date: 01/17/2026
+Vendor: Cox-Bailey (ID: VND-35291)
+Invoice: INV-481732 | PO: PO-7470
+Amount: 42,640.40 HRK
+Payment Method: Wire Transfer
+Bank: UBS Group (Branch Code: 914)
+Account Number: 637390432318409776
+Beneficiary: Elisa Vogt
+Risk Score: Low
+128. Transaction ID: 5eb6eda3-4894-45fe-911f-4b2dae5fcac2
+Transaction Date: 10/24/2025
+Value Date: 10/25/2025
+Posting Date: 10/30/2025
+Vendor: Day-Lucas (ID: VND-62999)
+Invoice: INV-997508 | PO: PO-8483
+Amount: 18,458.73 CNY
+Payment Method: Wire Transfer
+Bank: HSBC Holdings (Branch Code: 901)
+Account Number: CAAP84896851524178
+Beneficiary: Ellie Cox
+Risk Score: Low
+129. Transaction ID: 9949e408-b3c9-403e-b2c2-be15a153a6c8
+Transaction Date: 11/24/2025
+Value Date: 11/26/2025
+Posting Date: 12/01/2025
+Vendor: Francis Ltd (ID: VND-97745)
+Invoice: INV-928075 | PO: PO-9323
+Amount: 17,491.12 ZMW
+Payment Method: Credit Card
+Bank: Barclays (Branch Code: 168)
+Account Number: 774287668254917981
+Beneficiary: Pauline Grondin
+Risk Score: Critical
+130. Transaction ID: 55b0418a-73d0-4656-a6c4-9861e302a1aa
+Transaction Date: 05/26/2025
+Value Date: 05/26/2025
+Posting Date: 05/30/2025
+Vendor: Grein Groth (ID: VND-61784)
+Invoice: INV-910593 | PO: PO-7384
+Amount: 17,476.84 TRY
+Payment Method: Wire Transfer
+Bank: Royal Bank of Canada (Branch Code: 608)
+Account Number: UDHO92007009822140
+Beneficiary: Célina Raynaud-Lagarde
+Risk Score: Medium
+131. Transaction ID: caab25ba-95c4-4b8a-93fe-025794425652
+Transaction Date: 02/06/2025
+Value Date: 02/06/2025
+Posting Date: 02/10/2025
+Vendor: Williams-Yates (ID: VND-91475)
+Invoice: INV-724724 | PO: PO-6381
+Amount: 43,696.18 LKR
+Payment Method: Check
+Bank: HSBC Holdings (Branch Code: 181)
+Account Number: STEY70017605122177
+Beneficiary: Mr Arthur Porter
+Risk Score: Low
+132. Transaction ID: b5e7dee1-d8cd-4f33-a621-f9f8b4cb81e1
+Transaction Date: 10/06/2025
+Value Date: 10/08/2025
+Posting Date: 10/11/2025
+Vendor: Süßebier e.V. (ID: VND-53322)
+Invoice: INV-966467 | PO: PO-8824
+Amount: 40,868.32 LTL
+Payment Method: SEPA
+Bank: UBS Group (Branch Code: 339)
+Account Number: 563519616222049284
+Beneficiary: Ralf-Peter Lehmann
+Risk Score: Medium
+133. Transaction ID: d1199f68-6314-45cb-a56c-f8e02c48a7ef
+Transaction Date: 08/27/2025
+Value Date: 08/29/2025
+Posting Date: 08/30/2025
+Vendor: Henderson, Jones and Pitts (ID: VND-98109)
+Invoice: INV-419740 | PO: PO-6349
+Amount: 27,567.32 TMT
+Payment Method: SEPA
+Bank: Wells Fargo (Branch Code: 643)
+Account Number: OYSO51719706957372
+Beneficiary: Nicholas Thomas
+Risk Score: Medium
+134. Transaction ID: f019611e-bc8c-4df3-a866-9a518bc71f47
+Transaction Date: 02/15/2025
+Value Date: 02/17/2025
+Posting Date: 02/20/2025
+Vendor: Ballard PLC (ID: VND-39031)
+Invoice: INV-991815 | PO: PO-5237
+Amount: 23,800.22 GYD
+Payment Method: ACH
+Bank: Banco Santander (Branch Code: 731)
+Account Number: 972680901060473113
+Beneficiary: Dr. Dennis Hamilton MD
+Risk Score: Critical
+135. Transaction ID: 37999afc-3e09-40bb-96c9-e7b2a625689a
+Transaction Date: 09/20/2025
+Value Date: 09/21/2025
+Posting Date: 09/25/2025
+Vendor: Loiseau S.A.R.L. (ID: VND-42182)
+Invoice: INV-188988 | PO: PO-8221
+Amount: 22,741.96 HRK
+Payment Method: ACH
+Bank: Société Générale (Branch Code: 993)
+Account Number: 128584961350186786
+Beneficiary: Édouard Olivier
+Risk Score: Medium
+136. Transaction ID: a8206055-3cd1-4cf2-8cfd-47f4d24f9e62
+Transaction Date: 03/02/2025
+Value Date: 03/02/2025
+Posting Date: 03/02/2025
+Vendor: Miller Inc (ID: VND-98252)
+Invoice: INV-868406 | PO: PO-5810
+Amount: 47,164.06 RUB
+Payment Method: Wire Transfer
+Bank: Toronto-Dominion Bank (Branch Code: 754)
+Account Number: EUHT15511737912561
+Beneficiary: Émilie Barbier
+Risk Score: Critical
+137. Transaction ID: 04b05bcf-7257-40af-be7d-5aead72f36b7
+Transaction Date: 10/25/2025
+Value Date: 10/27/2025
+Posting Date: 10/27/2025
+Vendor: Taylor Inc (ID: VND-74856)
+Invoice: INV-907188 | PO: PO-7281
+Amount: 45,586.08 NGN
+Payment Method: ACH
+Bank: NatWest Group (Branch Code: 253)
+Account Number: JVRV26460974407874
+Beneficiary: Catherine Hayward
+Risk Score: Critical
+138. Transaction ID: 8544094a-2b3c-409f-bea3-3977dbef97d3
+Transaction Date: 05/15/2025
+Value Date: 05/15/2025
+Posting Date: 05/15/2025
+Vendor: Cameron-Parry (ID: VND-59569)
+Invoice: INV-276184 | PO: PO-8886
+Amount: 25,224.28 BYR
+Payment Method: SEPA
+Bank: Deutsche Bank (Branch Code: 183)
+Account Number: PZOE37098845012713
+Beneficiary: Maryse Gillet
+Risk Score: Low
+139. Transaction ID: a341517c-41f0-46eb-ad33-5f8525126cd5
+Transaction Date: 11/02/2025
+Value Date: 11/04/2025
+Posting Date: 11/09/2025
+Vendor: Norris, Reynolds and Chapman (ID: VND-64811)
+Invoice: INV-789098 | PO: PO-9476
+Amount: 33,467.11 BOB
+Payment Method: Wire Transfer
+Bank: UBS Group (Branch Code: 834)
+Account Number: IIHS01330476585368
+Beneficiary: Honoré Caron
+Risk Score: Critical
+140. Transaction ID: c1dfb180-e488-4f98-96c5-7376d7adc352
+Transaction Date: 03/25/2025
+Value Date: 03/27/2025
+Posting Date: 03/30/2025
+Vendor: Dupuy S.A.S. (ID: VND-57894)
+Invoice: INV-931323 | PO: PO-6212
+Amount: 30,843.67 TZS
+Payment Method: ACH
+Bank: Credit Suisse (Branch Code: 247)
+Account Number: ESBA15938723566092
+Beneficiary: Rebecca Haase
+Risk Score: Critical
+141. Transaction ID: d0ad4f64-48d6-4717-b928-57a0377a4e35
+Transaction Date: 02/11/2025
+Value Date: 02/12/2025
+Posting Date: 02/13/2025
+Vendor: Barth e.G. (ID: VND-78530)
+Invoice: INV-381556 | PO: PO-6357
+Amount: 6,327.43 LAK
+Payment Method: Wire Transfer
+Bank: HSBC Holdings (Branch Code: 887)
+Account Number: DNRZ12289976040787
+Beneficiary: Valerie Baker
+Risk Score: Critical
+142. Transaction ID: 440bf9f0-541d-412c-add3-756b85debcd2
+Transaction Date: 08/22/2025
+Value Date: 08/24/2025
+Posting Date: 08/24/2025
+Vendor: Bender AG & Co. KG (ID: VND-84291)
+Invoice: INV-870477 | PO: PO-7651
+Amount: 25,136.80 IMP
+Payment Method: Check
+Bank: Crédit Agricole (Branch Code: 588)
+Account Number: 90378397926620045849012
+Beneficiary: Pamela Rogers
+Risk Score: Medium
+143. Transaction ID: 41c012f3-34ec-4fc3-8e93-e1165b748d8f
+Transaction Date: 07/12/2025
+Value Date: 07/13/2025
+Posting Date: 07/13/2025
+Vendor: Gray and Sons (ID: VND-35867)
+Invoice: INV-189249 | PO: PO-8933
+Amount: 29,861.58 EGP
+Payment Method: SEPA
+Bank: NatWest Group (Branch Code: 321)
+Account Number: 047817781539387956
+Beneficiary: Hans Josef Kuhl
+Risk Score: High
+144. Transaction ID: 8b5be073-9930-4fa2-ac86-d260288a0102
+Transaction Date: 07/24/2025
+Value Date: 07/25/2025
+Posting Date: 07/29/2025
+Vendor: Murray, Goddard and McCarthy (ID: VND-25360)
+Invoice: INV-194644 | PO: PO-9574
+Amount: 30,764.31 BDT
+Payment Method: SEPA
+Bank: Wells Fargo (Branch Code: 645)
+Account Number: VOWS84695033113847
+Beneficiary: Univ.Prof. Isabell Ehlert
+Risk Score: Medium
+145. Transaction ID: 82789e05-1c6d-4318-8094-f0e0543aceb4
+Transaction Date: 07/06/2025
+Value Date: 07/06/2025
+Posting Date: 07/09/2025
+Vendor: Schlosser (ID: VND-61840)
+Invoice: INV-584312 | PO: PO-8008
+Amount: 38,286.62 GTQ
+Payment Method: Check
+Bank: Wells Fargo (Branch Code: 744)
+Account Number: FUQX93441042771330
+Beneficiary: Dr. Dimitrios Siering MBA.
+Risk Score: High
+146. Transaction ID: 516657a0-3948-46db-ac9c-e57de150b945
+Transaction Date: 10/30/2025
+Value Date: 10/30/2025
+Posting Date: 11/02/2025
+Vendor: Cherry, Terry and Williams (ID: VND-24004)
+Invoice: INV-672266 | PO: PO-8282
+Amount: 24,034.67 SEK
+Payment Method: Wire Transfer
+Bank: Deutsche Bank (Branch Code: 330)
+Account Number: 028607817190959022
+Beneficiary: Georges Gros de la Nicolas
+Risk Score: High
+147. Transaction ID: 30ba82db-fc20-4562-a03b-9d181c65ea1b
+Transaction Date: 04/15/2025
+Value Date: 04/15/2025
+Posting Date: 04/15/2025
+Vendor: Putz Herrmann GmbH (ID: VND-58904)
+Invoice: INV-965972 | PO: PO-6094
+Amount: 38,487.36 CNY
+Payment Method: Credit Card
+Bank: BNP Paribas (Branch Code: 964)
+Account Number: 460160148060749139
+Beneficiary: Laurenz Pölitz
+Risk Score: Medium
+148. Transaction ID: 2f243d8d-bf32-43d2-9e8a-a5e82d6f29d3
+Transaction Date: 06/10/2025
+Value Date: 06/11/2025
+Posting Date: 06/14/2025
+Vendor: Osborn, Bryant and Anderson (ID: VND-22701)
+Invoice: INV-243087 | PO: PO-8717
+Amount: 49,901.73 GIP
+Payment Method: Credit Card
+Bank: UBS Group (Branch Code: 923)
+Account Number: YMWQ91168562831685
+Beneficiary: John Kim
+Risk Score: Low
+149. Transaction ID: 76b28764-c368-4c54-8575-a074d1d61016
+Transaction Date: 04/12/2025
+Value Date: 04/12/2025
+Posting Date: 04/16/2025
+Vendor: Garcia, Rodriguez and Holland (ID: VND-20372)
+Invoice: INV-411111 | PO: PO-8778
+Amount: 26,094.51 HTG
+Payment Method: Credit Card
+Bank: Goldman Sachs (Branch Code: 222)
+Account Number: 43409925923095040359947
+Beneficiary: Ing. Raik Schmidt
+Risk Score: Medium
+150. Transaction ID: 174eff86-3688-4fbc-a316-288869e584fe
+Transaction Date: 07/18/2025
+Value Date: 07/19/2025
+Posting Date: 07/22/2025
+Vendor: Walls Inc (ID: VND-55937)
+Invoice: INV-275867 | PO: PO-7395
+Amount: 39,898.81 SDG
+Payment Method: SEPA
+Bank: Lloyds Banking Group (Branch Code: 370)
+Account Number: 731422488246237714
+Beneficiary: Sofia Ortmann
+Risk Score: High
+151. Transaction ID: 8e1d54be-7ac1-4b17-bb37-6cd48be3bfe2
+Transaction Date: 12/29/2025
+Value Date: 12/30/2025
+Posting Date: 01/03/2026
+Vendor: Powell Group (ID: VND-49828)
+Invoice: INV-597832 | PO: PO-6273
+Amount: 13,774.29 GGP
+Payment Method: Check
+Bank: Société Générale (Branch Code: 268)
+Account Number: 193775011543838808
+Beneficiary: Hansjürgen Aumann-Mans
+Risk Score: Medium
+152. Transaction ID: d030e04f-393b-4f86-9841-b45538f8dc8a
+Transaction Date: 06/26/2025
+Value Date: 06/28/2025
+Posting Date: 06/28/2025
+Vendor: Parry, Norris and Robertson (ID: VND-12481)
+Invoice: INV-255900 | PO: PO-5845
+Amount: 27,423.28 BAM
+Payment Method: Wire Transfer
+Bank: Royal Bank of Canada (Branch Code: 305)
+Account Number: CFIS38380335134034
+Beneficiary: Kyle Foster
+Risk Score: Medium
+153. Transaction ID: bc7b260d-7a55-400b-bd4a-2230b5d9d821
+Transaction Date: 04/20/2025
+Value Date: 04/22/2025
+Posting Date: 04/26/2025
+Vendor: Dijoux (ID: VND-24202)
+Invoice: INV-703090 | PO: PO-8576
+Amount: 33,969.84 DZD
+Payment Method: Check
+Bank: Deutsche Bank (Branch Code: 930)
+Account Number: 90531933934183000086978
+Beneficiary: Prof. Gordana Hermann
+Risk Score: Low
+154. Transaction ID: cd34b294-14c1-4bb6-a574-08aa44ab535b
+Transaction Date: 07/25/2025
+Value Date: 07/25/2025
+Posting Date: 07/26/2025
+Vendor: Slater Ltd (ID: VND-14680)
+Invoice: INV-701892 | PO: PO-5436
+Amount: 21,113.11 ZMW
+Payment Method: Credit Card
+Bank: NatWest Group (Branch Code: 594)
+Account Number: 068025964093963956
+Beneficiary: Mr Elliott Harris
+Risk Score: High
+155. Transaction ID: 0ddb6ba0-bc71-4441-a97b-cb6034d004d8
+Transaction Date: 12/11/2025
+Value Date: 12/11/2025
+Posting Date: 12/11/2025
+Vendor: Allen-Singh (ID: VND-35136)
+Invoice: INV-581562 | PO: PO-8346
+Amount: 20,178.04 LBP
+Payment Method: Wire Transfer
+Bank: Credit Suisse (Branch Code: 370)
+Account Number: 40628850849812560285051
+Beneficiary: Robert Chang
+Risk Score: High
+156. Transaction ID: de1df06d-b120-4a7b-b93c-8dc3501cd4ed
+Transaction Date: 05/29/2025
+Value Date: 05/31/2025
+Posting Date: 06/04/2025
+Vendor: Juncken Heß GmbH & Co. OHG (ID: VND-95878)
+Invoice: INV-412039 | PO: PO-6850
+Amount: 46,062.15 TWD
+Payment Method: Check
+Bank: BNP Paribas (Branch Code: 959)
+Account Number: 269315642606065586
+Beneficiary: David Cruz
+Risk Score: Critical
+157. Transaction ID: 8422104d-23cb-46e8-a36a-309809bdeefb
+Transaction Date: 08/27/2025
+Value Date: 08/29/2025
+Posting Date: 08/30/2025
+Vendor: Ollivier Barbier S.A.S. (ID: VND-36191)
+Invoice: INV-543296 | PO: PO-6863
+Amount: 49,326.93 CNY
+Payment Method: Check
+Bank: Morgan Stanley (Branch Code: 110)
+Account Number: SPET03019096913252
+Beneficiary: Terence Kirby
+Risk Score: High
+158. Transaction ID: 92d8b384-8a79-426a-a461-300dd312b12e
+Transaction Date: 11/11/2025
+Value Date: 11/13/2025
+Posting Date: 11/15/2025
+Vendor: Maury S.A.R.L. (ID: VND-49481)
+Invoice: INV-225753 | PO: PO-5263
+Amount: 29,350.07 ZMW
+Payment Method: SEPA
+Bank: Barclays (Branch Code: 148)
+Account Number: XRWL53384008405804
+Beneficiary: Joshua Brown
+Risk Score: Low
+159. Transaction ID: e5c69ce9-94ed-4aa6-970f-a53870425c11
+Transaction Date: 06/12/2025
+Value Date: 06/14/2025
+Posting Date: 06/17/2025
+Vendor: Evans, Lewis and Taylor (ID: VND-36982)
+Invoice: INV-754633 | PO: PO-9772
+Amount: 16,098.39 HTG
+Payment Method: Credit Card
+Bank: Credit Suisse (Branch Code: 989)
+Account Number: 99777029977888603112230
+Beneficiary: Kayleigh Day
+Risk Score: High
+160. Transaction ID: 3996936a-de66-4805-a06f-b27d45a1c888
+Transaction Date: 07/05/2025
+Value Date: 07/06/2025
+Posting Date: 07/07/2025
+Vendor: Legendre S.A. (ID: VND-35386)
+Invoice: INV-643302 | PO: PO-9336
+Amount: 5,540.12 AOA
+Payment Method: Wire Transfer
+Bank: Société Générale (Branch Code: 173)
+Account Number: VQMT64448667809132
+Beneficiary: Émile Roussel
+Risk Score: Critical
+161. Transaction ID: dced44d1-9892-4dfb-b733-0d37922c9404
+Transaction Date: 10/22/2025
+Value Date: 10/23/2025
+Posting Date: 10/26/2025
+Vendor: Gonzalez LLC (ID: VND-94815)
+Invoice: INV-744952 | PO: PO-6569
+Amount: 42,633.74 SBD
+Payment Method: Wire Transfer
+Bank: Wells Fargo (Branch Code: 185)
+Account Number: KIHB65387003468063
+Beneficiary: Süleyman Eberth
+Risk Score: Low
+162. Transaction ID: 5652eea3-a6e3-4a30-ae79-0f0a70d564d5
+Transaction Date: 05/25/2025
+Value Date: 05/27/2025
+Posting Date: 06/01/2025
+Vendor: Blümel (ID: VND-45233)
+Invoice: INV-213271 | PO: PO-7637
+Amount: 3,960.36 BDT
+Payment Method: Check
+Bank: Crédit Agricole (Branch Code: 948)
+Account Number: 62333971345320140731968
+Beneficiary: Dr Nigel Andrews
+Risk Score: Low
+163. Transaction ID: 6152509b-c3ca-4897-8f68-4ebe1b036559
+Transaction Date: 04/19/2025
+Value Date: 04/21/2025
+Posting Date: 04/22/2025
+Vendor: Scheuermann GmbH & Co. KGaA (ID: VND-46903)
+Invoice: INV-483777 | PO: PO-6819
+Amount: 26,511.70 ANG
+Payment Method: Check
+Bank: Royal Bank of Canada (Branch Code: 978)
+Account Number: 18674159092045214195715
+Beneficiary: Noémi Girard-Gallet
+Risk Score: Medium
+164. Transaction ID: f47b0e5b-1dcc-4701-84b3-445c29c51f78
+Transaction Date: 03/17/2025
+Value Date: 03/17/2025
+Posting Date: 03/18/2025
+Vendor: Walker-Ahmed (ID: VND-92280)
+Invoice: INV-164562 | PO: PO-6712
+Amount: 22,081.25 GGP
+Payment Method: Credit Card
+Bank: BNP Paribas (Branch Code: 826)
+Account Number: TEHC75218841478522
+Beneficiary: David Saunders
+Risk Score: Low
+165. Transaction ID: 04d809ae-bf30-4788-b7e4-ef66b92506bf
+Transaction Date: 04/20/2025
+Value Date: 04/20/2025
+Posting Date: 04/20/2025
+Vendor: White-Rogers (ID: VND-32911)
+Invoice: INV-217238 | PO: PO-5635
+Amount: 891.92 GGP
+Payment Method: SEPA
+Bank: Citigroup (Branch Code: 330)
+Account Number: 040065901598578962
+Beneficiary: Daniel Duncan
+Risk Score: High
+166. Transaction ID: 32846879-1afc-4005-a6bf-d289c9d85990
+Transaction Date: 04/03/2025
+Value Date: 04/05/2025
+Posting Date: 04/10/2025
+Vendor: Vollbrecht Geisler Stiftung & Co. KG (ID: VND-72826)
+Invoice: INV-105160 | PO: PO-7371
+Amount: 41,810.30 QAR
+Payment Method: SEPA
+Bank: Goldman Sachs (Branch Code: 322)
+Account Number: GYAD24241098293219
+Beneficiary: Franca Geisel-Tschentscher
+Risk Score: High
+167. Transaction ID: a243833b-38dc-4eb1-8183-e92ce114fa57
+Transaction Date: 09/20/2025
+Value Date: 09/22/2025
+Posting Date: 09/23/2025
+Vendor: Löchel Stiftung & Co. KG (ID: VND-68811)
+Invoice: INV-174382 | PO: PO-5128
+Amount: 844.60 NIO
+Payment Method: ACH
+Bank: NatWest Group (Branch Code: 120)
+Account Number: RIFZ83698947501669
+Beneficiary: Jacques Dupont
+Risk Score: Critical
+168. Transaction ID: ff45e6a7-8be8-44df-b1d0-b44de87cd47a
+Transaction Date: 12/08/2025
+Value Date: 12/08/2025
+Posting Date: 12/11/2025
+Vendor: Lejeune S.A. (ID: VND-27955)
+Invoice: INV-874436 | PO: PO-5948
+Amount: 48,867.37 BGN
+Payment Method: SEPA
+Bank: Wells Fargo (Branch Code: 629)
+Account Number: 788888591499723664
+Beneficiary: Luc Thierry
+Risk Score: Medium
+169. Transaction ID: 9c7f3473-7b86-4d5f-b692-456630dbd88c
+Transaction Date: 07/28/2025
+Value Date: 07/29/2025
+Posting Date: 07/30/2025
+Vendor: Linke Bauer AG & Co. OHG (ID: VND-92970)
+Invoice: INV-657903 | PO: PO-9815
+Amount: 2,894.31 MWK
+Payment Method: Check
+Bank: Barclays (Branch Code: 324)
+Account Number: 73523913490130629003696
+Beneficiary: Élise Costa de Guyot
+Risk Score: Medium
+170. Transaction ID: 04d7a92e-7b3a-4b83-a0ad-5ee35af94993
+Transaction Date: 09/19/2025
+Value Date: 09/20/2025
+Posting Date: 09/20/2025
+Vendor: Charles-Morgan (ID: VND-97376)
+Invoice: INV-269858 | PO: PO-9663
+Amount: 8,434.46 HUF
+Payment Method: Wire Transfer
+Bank: Bank of America (Branch Code: 248)
+Account Number: ZMXA27574377349769
+Beneficiary: Nathalie Jacquet du Neveu
+Risk Score: Low
+171. Transaction ID: 927d40cb-1f0a-414c-a1d8-f089f6ba7f0c
+Transaction Date: 04/14/2025
+Value Date: 04/15/2025
+Posting Date: 04/16/2025
+Vendor: Cross Ltd (ID: VND-79712)
+Invoice: INV-669229 | PO: PO-6601
+Amount: 36,321.32 JOD
+Payment Method: SEPA
+Bank: Wells Fargo (Branch Code: 698)
+Account Number: JMJQ45622775698911
+Beneficiary: Mrs Tracey Simpson
+Risk Score: Medium
+172. Transaction ID: 2b693021-3c10-42ba-9efd-04a232454ec1
+Transaction Date: 08/19/2025
+Value Date: 08/20/2025
+Posting Date: 08/23/2025
+Vendor: Jarvis Ltd (ID: VND-21069)
+Invoice: INV-338168 | PO: PO-5312
+Amount: 16,134.45 NIO
+Payment Method: Check
+Bank: BNP Paribas (Branch Code: 454)
+Account Number: 862209921699152564
+Beneficiary: Brita Davids
+Risk Score: Medium
+173. Transaction ID: 8a3ccb1d-f2db-41eb-afe8-b64f4534abcb
+Transaction Date: 10/03/2025
+Value Date: 10/05/2025
+Posting Date: 10/10/2025
+Vendor: Thomas Ltd (ID: VND-43806)
+Invoice: INV-131392 | PO: PO-6040
+Amount: 33,675.13 MKD
+Payment Method: Wire Transfer
+Bank: Barclays (Branch Code: 764)
+Account Number: 178309530813925680
+Beneficiary: David Gray
+Risk Score: Low
+174. Transaction ID: 4e74756b-611c-4ff0-8e19-0c94af546b85
+Transaction Date: 07/27/2025
+Value Date: 07/28/2025
+Posting Date: 07/29/2025
+Vendor: Salinas, Stuart and Jones (ID: VND-52048)
+Invoice: INV-783307 | PO: PO-9200
+Amount: 37,023.95 DOP
+Payment Method: Check
+Bank: Wells Fargo (Branch Code: 361)
+Account Number: CEAV98256746764515
+Beneficiary: Bethan Khan
+Risk Score: Critical
+175. Transaction ID: 5ef04419-1a44-43d6-a0f5-aaef0f0e2fec
+Transaction Date: 12/09/2025
+Value Date: 12/10/2025
+Posting Date: 12/11/2025
+Vendor: Mullen, Jackson and Mahoney (ID: VND-12477)
+Invoice: INV-730779 | PO: PO-6250
+Amount: 28,666.31 FKP
+Payment Method: Check
+Bank: BNP Paribas (Branch Code: 787)
+Account Number: 759849152236575147
+Beneficiary: Ing. Sophie Schüler
+Risk Score: Low
+176. Transaction ID: e3b98346-b3e1-4fc6-99c5-dfe1b93a9382
+Transaction Date: 09/02/2025
+Value Date: 09/04/2025
+Posting Date: 09/06/2025
+Vendor: Tröst Hande OHG mbH (ID: VND-77450)
+Invoice: INV-260672 | PO: PO-7102
+Amount: 42,567.08 PYG
+Payment Method: Wire Transfer
+Bank: Wells Fargo (Branch Code: 321)
+Account Number: SRWX83784419175611
+Beneficiary: Steven Moreno
+Risk Score: High
+177. Transaction ID: 08bfbfc7-b2cc-4ffc-9110-967a688836be
+Transaction Date: 03/10/2025
+Value Date: 03/11/2025
+Posting Date: 03/14/2025
+Vendor: Davies Ltd (ID: VND-49891)
+Invoice: INV-747703 | PO: PO-7728
+Amount: 45,494.75 JMD
+Payment Method: Check
+Bank: Banco Santander (Branch Code: 930)
+Account Number: 48658747071410884612561
+Beneficiary: Renee Morgan
+Risk Score: Critical
+178. Transaction ID: 3a0c3139-1491-453c-8f2e-1587f3474e9c
+Transaction Date: 07/01/2025
+Value Date: 07/03/2025
+Posting Date: 07/06/2025
+Vendor: Wagner (ID: VND-65315)
+Invoice: INV-536312 | PO: PO-5139
+Amount: 47,540.75 ZMW
+Payment Method: Credit Card
+Bank: Banco Santander (Branch Code: 892)
+Account Number: FFUA87579680708771
+Beneficiary: Richard Bush
+Risk Score: Critical
+179. Transaction ID: 7fe1870e-0b93-4d53-bb3f-a14c318b5a1e
+Transaction Date: 07/09/2025
+Value Date: 07/10/2025
+Posting Date: 07/14/2025
+Vendor: Kallert Hübel KG (ID: VND-71931)
+Invoice: INV-878710 | PO: PO-5436
+Amount: 34,835.16 GBP
+Payment Method: Wire Transfer
+Bank: Credit Suisse (Branch Code: 457)
+Account Number: 36033415515689325469978
+Beneficiary: Cheryl Barnes
+Risk Score: Medium
+180. Transaction ID: fae5f451-b4b9-40c9-bf31-749463f396e8
+Transaction Date: 06/19/2025
+Value Date: 06/20/2025
+Posting Date: 06/24/2025
+Vendor: Baldwin, Austin and Wood (ID: VND-91881)
+Invoice: INV-522213 | PO: PO-5315
+Amount: 29,139.44 KHR
+Payment Method: SEPA
+Bank: Société Générale (Branch Code: 758)
+Account Number: XIJP91319094513374
+Beneficiary: Terence Lewis
+Risk Score: Medium
+181. Transaction ID: de8d4f35-0fbb-4c37-b983-5ecf13c64cc4
+Transaction Date: 10/28/2025
+Value Date: 10/30/2025
+Posting Date: 11/03/2025
+Vendor: Kay, Howell and Thompson (ID: VND-41924)
+Invoice: INV-193959 | PO: PO-8940
+Amount: 41,867.75 CHF
+Payment Method: Check
+Bank: Morgan Stanley (Branch Code: 733)
+Account Number: 13609997610854409411064
+Beneficiary: Joshua Walsh
+Risk Score: Critical
+182. Transaction ID: 146290d2-aa55-47bb-90a0-a734b1290b89
+Transaction Date: 03/30/2025
+Value Date: 04/01/2025
+Posting Date: 04/04/2025
+Vendor: Ollivier (ID: VND-60628)
+Invoice: INV-309347 | PO: PO-8687
+Amount: 37,466.71 PKR
+Payment Method: Wire Transfer
+Bank: BNP Paribas (Branch Code: 207)
+Account Number: VADX16535159425691
+Beneficiary: Irmgard Wulf-Kaul
+Risk Score: High
+183. Transaction ID: 2df60d68-81e9-4b8d-894b-0cb423328046
+Transaction Date: 05/25/2025
+Value Date: 05/26/2025
+Posting Date: 05/27/2025
+Vendor: Cooke, Sanderson and Conway (ID: VND-18902)
+Invoice: INV-548479 | PO: PO-7857
+Amount: 13,397.66 KYD
+Payment Method: ACH
+Bank: Banco Santander (Branch Code: 863)
+Account Number: 056550655839190862
+Beneficiary: Brandon Edwards
+Risk Score: Low
+184. Transaction ID: 6347086f-a17e-4105-b8e4-23f473a3a018
+Transaction Date: 12/13/2025
+Value Date: 12/15/2025
+Posting Date: 12/15/2025
+Vendor: Adams-Jones (ID: VND-93897)
+Invoice: INV-308610 | PO: PO-6223
+Amount: 49,935.40 WST
+Payment Method: Check
+Bank: Bank of America (Branch Code: 573)
+Account Number: 775056247519828959
+Beneficiary: Marijan Stroh B.Sc.
+Risk Score: High
+185. Transaction ID: 612af15c-b1d1-4c19-ae96-5b06b7a81ae7
+Transaction Date: 01/23/2026
+Value Date: 01/25/2026
+Posting Date: 01/30/2026
+Vendor: Vincent (ID: VND-17485)
+Invoice: INV-679484 | PO: PO-6540
+Amount: 28,750.74 CZK
+Payment Method: Check
+Bank: UBS Group (Branch Code: 298)
+Account Number: ESPL44661166072566
+Beneficiary: Terri Robinson
+Risk Score: Medium
+186. Transaction ID: 008afdb5-8c62-4c5d-9c45-c7df791e94e7
+Transaction Date: 08/21/2025
+Value Date: 08/21/2025
+Posting Date: 08/26/2025
+Vendor: Söding Heidrich GmbH (ID: VND-31542)
+Invoice: INV-700741 | PO: PO-8252
+Amount: 23,593.24 BND
+Payment Method: Check
+Bank: Goldman Sachs (Branch Code: 627)
+Account Number: SDIK88798352315497
+Beneficiary: Paul Devaux
+Risk Score: Critical
+187. Transaction ID: 8f740f50-4fbb-45ce-b051-15c6969a4e8c
+Transaction Date: 12/12/2025
+Value Date: 12/13/2025
+Posting Date: 12/14/2025
+Vendor: Robinson LLC (ID: VND-72883)
+Invoice: INV-247886 | PO: PO-5151
+Amount: 19,898.26 JMD
+Payment Method: ACH
+Bank: Lloyds Banking Group (Branch Code: 918)
+Account Number: 259186932615645924
+Beneficiary: Katherine Casey
+Risk Score: High
+188. Transaction ID: 8b0402d1-b9aa-483d-be63-1b7c8c82678e
+Transaction Date: 09/12/2025
+Value Date: 09/12/2025
+Posting Date: 09/13/2025
+Vendor: Paul S.A. (ID: VND-73121)
+Invoice: INV-191490 | PO: PO-8954
+Amount: 25,952.37 BGN
+Payment Method: SEPA
+Bank: BNP Paribas (Branch Code: 724)
+Account Number: DNLD52233300396944
+Beneficiary: Marie-Theres Beier
+Risk Score: Critical
+189. Transaction ID: 743d7baf-9b99-4b66-ac58-105c97465f42
+Transaction Date: 11/23/2025
+Value Date: 11/24/2025
+Posting Date: 11/24/2025
+Vendor: Barkholz Sager KGaA (ID: VND-89564)
+Invoice: INV-832536 | PO: PO-9517
+Amount: 13,718.71 LKR
+Payment Method: ACH
+Bank: Barclays (Branch Code: 699)
+Account Number: WCXI90047132330929
+Beneficiary: Fatih Kabus
+Risk Score: Medium
+190. Transaction ID: 8fa5b6e6-2784-41ff-b16b-7cca4e6b3669
+Transaction Date: 10/03/2025
+Value Date: 10/03/2025
+Posting Date: 10/07/2025
+Vendor: Wilkinson, Saunders and Forster (ID: VND-55566)
+Invoice: INV-750074 | PO: PO-5209
+Amount: 21,597.10 SGD
+Payment Method: ACH
+Bank: BNP Paribas (Branch Code: 748)
+Account Number: KAWE85748283555877
+Beneficiary: Janice Schofield-Davidson
+Risk Score: Low
+191. Transaction ID: d587acc0-38e4-47ff-8557-d37af645d5d6
+Transaction Date: 12/06/2025
+Value Date: 12/07/2025
+Posting Date: 12/09/2025
+Vendor: Koch Gutknecht OHG mbH (ID: VND-64043)
+Invoice: INV-769236 | PO: PO-9774
+Amount: 15,814.18 GBP
+Payment Method: Check
+Bank: Goldman Sachs (Branch Code: 712)
+Account Number: YQMJ66546983781782
+Beneficiary: Emmanuel Le Thomas
+Risk Score: Critical
+192. Transaction ID: 9df91ce3-a0ae-4a1f-a8c4-818cfd05f4b9
+Transaction Date: 09/12/2025
+Value Date: 09/14/2025
+Posting Date: 09/14/2025
+Vendor: Green-Newton (ID: VND-49694)
+Invoice: INV-777045 | PO: PO-9629
+Amount: 13,735.65 KGS
+Payment Method: Check
+Bank: Lloyds Banking Group (Branch Code: 995)
+Account Number: 82487772744980390745349
+Beneficiary: Catherine Dennis
+Risk Score: Critical
+193. Transaction ID: 6ea8eec0-f24a-42e6-b3f4-b693fdcf8c1f
+Transaction Date: 09/15/2025
+Value Date: 09/17/2025
+Posting Date: 09/20/2025
+Vendor: Löchel Salz GmbH (ID: VND-48629)
+Invoice: INV-735431 | PO: PO-8582
+Amount: 22,107.61 IMP
+Payment Method: Wire Transfer
+Bank: Deutsche Bank (Branch Code: 753)
+Account Number: 974827973231180639
+Beneficiary: Charlie Wilson
+Risk Score: Critical
+194. Transaction ID: 41340f39-ff48-49bc-99a8-b8b3b4f4a5c0
+Transaction Date: 01/16/2026
+Value Date: 01/17/2026
+Posting Date: 01/20/2026
+Vendor: Robinson Ltd (ID: VND-34166)
+Invoice: INV-314319 | PO: PO-5815
+Amount: 2,831.04 QAR
+Payment Method: Credit Card
+Bank: Lloyds Banking Group (Branch Code: 692)
+Account Number: 358251561189430499
+Beneficiary: Claudine Fleury
+Risk Score: High
+195. Transaction ID: a601c6d5-9944-4837-8cd1-9ae768f72670
+Transaction Date: 10/13/2025
+Value Date: 10/15/2025
+Posting Date: 10/16/2025
+Vendor: Fox-Sanders (ID: VND-85097)
+Invoice: INV-805079 | PO: PO-5696
+Amount: 17,726.63 BOB
+Payment Method: SEPA
+Bank: Lloyds Banking Group (Branch Code: 202)
+Account Number: 53680351520027259571529
+Beneficiary: Sybilla Hövel
+Risk Score: Critical
+196. Transaction ID: d2652975-7805-491f-9d00-8452e3a9156f
+Transaction Date: 08/28/2025
+Value Date: 08/29/2025
+Posting Date: 09/01/2025
+Vendor: Heinrich Stiftung & Co. KGaA (ID: VND-19819)
+Invoice: INV-369903 | PO: PO-8512
+Amount: 43,758.46 PGK
+Payment Method: ACH
+Bank: HSBC Holdings (Branch Code: 415)
+Account Number: ICKJ80032507670697
+Beneficiary: Sarah Parkinson
+Risk Score: Critical
+197. Transaction ID: 2a667c46-02d8-4bfc-ad75-c550b4e817f8
+Transaction Date: 02/09/2025
+Value Date: 02/11/2025
+Posting Date: 02/12/2025
+Vendor: Meunier Verdier SARL (ID: VND-24784)
+Invoice: INV-304720 | PO: PO-6621
+Amount: 35,438.52 UYU
+Payment Method: Credit Card
+Bank: Citigroup (Branch Code: 739)
+Account Number: KRAB24371919880031
+Beneficiary: Nicholas Todd
+Risk Score: Medium
+198. Transaction ID: 274af3e9-e33e-44a8-b5c8-ff67b637b3ba
+Transaction Date: 07/03/2025
+Value Date: 07/03/2025
+Posting Date: 07/06/2025
+Vendor: Hardy-Ferguson (ID: VND-71154)
+Invoice: INV-190303 | PO: PO-6894
+Amount: 29,608.88 TVD
+Payment Method: Wire Transfer
+Bank: Commerzbank (Branch Code: 431)
+Account Number: 612120344092756714
+Beneficiary: Bianka Staude
+Risk Score: Medium
+199. Transaction ID: fd40254b-8530-4b9d-a94e-3bbbc7ca0b68
+Transaction Date: 03/06/2025
+Value Date: 03/07/2025
+Posting Date: 03/07/2025
+Vendor: Williams Group (ID: VND-61052)
+Invoice: INV-829622 | PO: PO-8282
+Amount: 27,809.57 AOA
+Payment Method: SEPA
+Bank: Crédit Agricole (Branch Code: 998)
+Account Number: KIPS23807833707013
+Beneficiary: Mr William Fisher
+Risk Score: Critical
+200. Transaction ID: 86d3cd18-9093-40a1-8ba2-a45abe63309c
+Transaction Date: 01/18/2026
+Value Date: 01/19/2026
+Posting Date: 01/24/2026
+Vendor: Jacquot (ID: VND-87170)
+Invoice: INV-232167 | PO: PO-7117
+Amount: 42,359.93 NOK
+Payment Method: SEPA
+Bank: UBS Group (Branch Code: 151)
+Account Number: 99351303720262038550359
+Beneficiary: Sarah Frost
+Risk Score: Low
+201. Transaction ID: 4556971c-5f4a-45b5-a0cb-22aff15e6c78
+Transaction Date: 11/02/2025
+Value Date: 11/04/2025
+Posting Date: 11/09/2025
+Vendor: Davis PLC (ID: VND-84839)
+Invoice: INV-997504 | PO: PO-8351
+Amount: 39,196.56 SZL
+Payment Method: ACH
+Bank: Crédit Agricole (Branch Code: 133)
+Account Number: 160204522648265227
+Beneficiary: Liesa Staude
+Risk Score: Low
+202. Transaction ID: 5ca13a30-78b1-48cb-a5b0-471ca64e8ff5
+Transaction Date: 05/04/2025
+Value Date: 05/06/2025
+Posting Date: 05/10/2025
+Vendor: Lebon Maréchal S.A. (ID: VND-85052)
+Invoice: INV-614938 | PO: PO-9626
+Amount: 46,004.64 BRL
+Payment Method: Wire Transfer
+Bank: Commerzbank (Branch Code: 303)
+Account Number: 18940519228338574633947
+Beneficiary: Michel-Antoine Perret
+Risk Score: Low
+203. Transaction ID: 6c471664-5a4d-4b78-a79c-72508f7471fb
+Transaction Date: 04/27/2025
+Value Date: 04/27/2025
+Posting Date: 05/02/2025
+Vendor: Spencer Ltd (ID: VND-43202)
+Invoice: INV-465673 | PO: PO-6048
+Amount: 45,125.79 BND
+Payment Method: Wire Transfer
+Bank: Barclays (Branch Code: 461)
+Account Number: 875410277921794446
+Beneficiary: Iwona Salz
+Risk Score: Critical
+204. Transaction ID: edc401c8-7748-4ccf-b8bd-27b8152134cf
+Transaction Date: 05/05/2025
+Value Date: 05/07/2025
+Posting Date: 05/09/2025
+Vendor: Gardner, Jackson and Ward (ID: VND-10205)
+Invoice: INV-873481 | PO: PO-7458
+Amount: 21,252.16 HTG
+Payment Method: Wire Transfer
+Bank: BNP Paribas (Branch Code: 556)
+Account Number: HUHP46439705677785
+Beneficiary: Kilian Gröttner
+Risk Score: Low
+205. Transaction ID: 5e3f5cd7-ac06-4f1d-907d-c440f90b4600
+Transaction Date: 07/12/2025
+Value Date: 07/14/2025
+Posting Date: 07/16/2025
+Vendor: Berthelot Pineau S.A. (ID: VND-15940)
+Invoice: INV-730179 | PO: PO-9226
+Amount: 45,294.40 ALL
+Payment Method: Check
+Bank: Wells Fargo (Branch Code: 373)
+Account Number: 96196373756472373129484
+Beneficiary: Ing. Lisette Hübel B.Sc.
+Risk Score: Medium
+206. Transaction ID: 53b659df-a089-4246-ab64-d8c85b92b3a0
+Transaction Date: 10/09/2025
+Value Date: 10/11/2025
+Posting Date: 10/16/2025
+Vendor: Bertrand Turpin SA (ID: VND-20342)
+Invoice: INV-835352 | PO: PO-9720
+Amount: 24,508.20 UYU
+Payment Method: Credit Card
+Bank: Barclays (Branch Code: 258)
+Account Number: 20443436574563721804638
+Beneficiary: Leonard Vincent
+Risk Score: High
+207. Transaction ID: bde0ddf6-8679-42db-93d8-4415f90c9fbb
+Transaction Date: 03/30/2025
+Value Date: 03/30/2025
+Posting Date: 04/03/2025
+Vendor: Boyer SARL (ID: VND-61638)
+Invoice: INV-270581 | PO: PO-5506
+Amount: 41,526.97 GIP
+Payment Method: ACH
+Bank: UBS Group (Branch Code: 910)
+Account Number: 18711779579151311701319
+Beneficiary: Eileen Norris-Crawford
+Risk Score: Critical
+208. Transaction ID: d640a001-954f-434e-a8a8-916ac9a6ab1a
+Transaction Date: 09/19/2025
+Value Date: 09/21/2025
+Posting Date: 09/25/2025
+Vendor: Fritsch (ID: VND-30678)
+Invoice: INV-115910 | PO: PO-6059
+Amount: 41,010.92 EGP
+Payment Method: ACH
+Bank: JPMorgan Chase (Branch Code: 984)
+Account Number: YKNF27189190559736
+Beneficiary: Kelly Johnson
+Risk Score: Low
+209. Transaction ID: d91a1003-e8c7-43e4-886d-14158363b9a8
+Transaction Date: 11/01/2025
+Value Date: 11/03/2025
+Posting Date: 11/05/2025
+Vendor: Craig, Brown and Marshall (ID: VND-53245)
+Invoice: INV-915182 | PO: PO-5800
+Amount: 12,292.42 SBD
+Payment Method: Credit Card
+Bank: Royal Bank of Canada (Branch Code: 478)
+Account Number: ILVC19792712120374
+Beneficiary: Cemil Schüler-Schäfer
+Risk Score: Medium
+210. Transaction ID: 7ffae340-209f-4360-8e69-3dbf15f12b17
+Transaction Date: 07/08/2025
+Value Date: 07/10/2025
+Posting Date: 07/11/2025
+Vendor: Huhn Stiftung & Co. KG (ID: VND-48488)
+Invoice: INV-149681 | PO: PO-8569
+Amount: 26,850.58 SOS
+Payment Method: Check
+Bank: JPMorgan Chase (Branch Code: 112)
+Account Number: QXZZ71247876348383
+Beneficiary: Mr Guy West
+Risk Score: Low
+211. Transaction ID: f090482d-3f58-40d6-9287-7a1fdaffda84
+Transaction Date: 06/23/2025
+Value Date: 06/25/2025
+Posting Date: 06/28/2025
+Vendor: Moore and Sons (ID: VND-73595)
+Invoice: INV-476193 | PO: PO-7383
+Amount: 28,116.30 BTN
+Payment Method: Check
+Bank: Goldman Sachs (Branch Code: 467)
+Account Number: 073156001315985218
+Beneficiary: Louise-Maryse Cohen
+Risk Score: Medium
+212. Transaction ID: 0bd4f07f-329c-447d-be84-ed9aa483fac5
+Transaction Date: 09/09/2025
+Value Date: 09/10/2025
+Posting Date: 09/15/2025
+Vendor: Klingelhöfer (ID: VND-24507)
+Invoice: INV-730351 | PO: PO-7821
+Amount: 813.98 SEK
+Payment Method: ACH
+Bank: JPMorgan Chase (Branch Code: 837)
+Account Number: 05061001689758585364906
+Beneficiary: Kenneth Moran
+Risk Score: High
+213. Transaction ID: 387da8c4-d1a6-404e-ad53-0f7d2bc018ad
+Transaction Date: 07/14/2025
+Value Date: 07/14/2025
+Posting Date: 07/14/2025
+Vendor: Ward-Willis (ID: VND-17887)
+Invoice: INV-788849 | PO: PO-7194
+Amount: 35,046.41 LRD
+Payment Method: Credit Card
+Bank: Toronto-Dominion Bank (Branch Code: 509)
+Account Number: 892219098820010249
+Beneficiary: Kevin Werner
+Risk Score: Medium
+214. Transaction ID: c662ab9b-1b9b-428e-b78b-80c616a26084
+Transaction Date: 03/11/2025
+Value Date: 03/12/2025
+Posting Date: 03/14/2025
+Vendor: Pelletier SARL (ID: VND-66741)
+Invoice: INV-945546 | PO: PO-7798
+Amount: 2,930.70 WST
+Payment Method: SEPA
+Bank: Goldman Sachs (Branch Code: 269)
+Account Number: 002189829115061428
+Beneficiary: Scott Woodward
+Risk Score: Medium
+215. Transaction ID: 89b8f15d-83f9-4ee3-9b50-3c83e4e499a0
+Transaction Date: 10/27/2025
+Value Date: 10/28/2025
+Posting Date: 10/28/2025
+Vendor: Tran-Lloyd (ID: VND-49387)
+Invoice: INV-922569 | PO: PO-5556
+Amount: 48,768.86 JOD
+Payment Method: Credit Card
+Bank: JPMorgan Chase (Branch Code: 581)
+Account Number: RUEW48927870201272
+Beneficiary: Annie Dörschner MBA.
+Risk Score: Medium
+216. Transaction ID: a0cd7606-76c3-4a8f-9f42-770dffd55b08
+Transaction Date: 07/31/2025
+Value Date: 08/01/2025
+Posting Date: 08/02/2025
+Vendor: Fernandez-Mcdonald (ID: VND-75703)
+Invoice: INV-718618 | PO: PO-7559
+Amount: 9,106.15 NAD
+Payment Method: ACH
+Bank: Deutsche Bank (Branch Code: 699)
+Account Number: OPWA29565358090855
+Beneficiary: Ada Zirme-Otto
+Risk Score: Low
+217. Transaction ID: 199ddca2-0108-4f9d-9916-9455ed2c7c5a
+Transaction Date: 05/15/2025
+Value Date: 05/15/2025
+Posting Date: 05/16/2025
+Vendor: Cox-Frazier (ID: VND-97583)
+Invoice: INV-363581 | PO: PO-5638
+Amount: 20,151.72 SLL
+Payment Method: Wire Transfer
+Bank: Citigroup (Branch Code: 244)
+Account Number: WBVP24343637518578
+Beneficiary: Prof. Birgid Heintze B.Eng.
+Risk Score: High
+218. Transaction ID: 6cb8ae26-fe63-4d4a-a576-e4679c060ee9
+Transaction Date: 09/04/2025
+Value Date: 09/05/2025
+Posting Date: 09/10/2025
+Vendor: Jackson-Clay (ID: VND-36400)
+Invoice: INV-262392 | PO: PO-6620
+Amount: 4,452.01 KPW
+Payment Method: Check
+Bank: Commerzbank (Branch Code: 320)
+Account Number: 105303965225048903
+Beneficiary: Gabriel Vallet-Parent
+Risk Score: Critical
+219. Transaction ID: 025fba46-2221-468d-9bd2-3a2f64b7d480
+Transaction Date: 04/25/2025
+Value Date: 04/27/2025
+Posting Date: 04/30/2025
+Vendor: Holmes-Williams (ID: VND-96397)
+Invoice: INV-511327 | PO: PO-6979
+Amount: 43,215.37 MGA
+Payment Method: Wire Transfer
+Bank: Wells Fargo (Branch Code: 654)
+Account Number: 26524181918267913523677
+Beneficiary: Trevor Turner
+Risk Score: Critical
+220. Transaction ID: 1d5aa0a6-29e4-41bc-87d7-6ef537ee7d0e
+Transaction Date: 07/08/2025
+Value Date: 07/10/2025
+Posting Date: 07/12/2025
+Vendor: Wagenknecht (ID: VND-50598)
+Invoice: INV-450890 | PO: PO-7198
+Amount: 42,379.02 SYP
+Payment Method: Wire Transfer
+Bank: Toronto-Dominion Bank (Branch Code: 344)
+Account Number: 93234547890359275354566
+Beneficiary: Christelle Julien
+Risk Score: Critical
+221. Transaction ID: 583b95ea-0759-49da-97ba-4787f80c90d0
+Transaction Date: 10/09/2025
+Value Date: 10/10/2025
+Posting Date: 10/11/2025
+Vendor: Warren LLC (ID: VND-71864)
+Invoice: INV-661195 | PO: PO-7113
+Amount: 39,807.93 PEN
+Payment Method: ACH
+Bank: UBS Group (Branch Code: 701)
+Account Number: RYNI65551404639929
+Beneficiary: Carl Burton-Williams
+Risk Score: High
+222. Transaction ID: 1ed91191-f970-4777-b3dc-73c9676749ad
+Transaction Date: 05/20/2025
+Value Date: 05/20/2025
+Posting Date: 05/23/2025
+Vendor: Foucher S.A.R.L. (ID: VND-43458)
+Invoice: INV-341778 | PO: PO-8903
+Amount: 37,180.74 AOA
+Payment Method: Credit Card
+Bank: Bank of America (Branch Code: 133)
+Account Number: 674123098194738005
+Beneficiary: Mr Vincent Howell
+Risk Score: Low
+223. Transaction ID: dbc555c1-e089-4030-80be-82a2e3ec5015
+Transaction Date: 05/08/2025
+Value Date: 05/09/2025
+Posting Date: 05/11/2025
+Vendor: White-Greene (ID: VND-43739)
+Invoice: INV-881011 | PO: PO-9923
+Amount: 26,176.73 WST
+Payment Method: SEPA
+Bank: JPMorgan Chase (Branch Code: 926)
+Account Number: 690301487562973230
+Beneficiary: Olivia Davies
+Risk Score: Critical
+224. Transaction ID: e20557c5-103e-4b3c-801f-b7351bd3a65a
+Transaction Date: 08/02/2025
+Value Date: 08/03/2025
+Posting Date: 08/07/2025
+Vendor: Hermighausen Hänel e.V. (ID: VND-88279)
+Invoice: INV-723388 | PO: PO-7871
+Amount: 28,535.93 SBD
+Payment Method: Check
+Bank: Wells Fargo (Branch Code: 839)
+Account Number: 378831561447201981
+Beneficiary: Frau Nurten Gnatz MBA.
+Risk Score: Critical
+225. Transaction ID: bd27c478-9381-45b6-86f1-2e61ed647b84
+Transaction Date: 11/05/2025
+Value Date: 11/07/2025
+Posting Date: 11/08/2025
+Vendor: Lelièvre Blondel S.A.S. (ID: VND-97965)
+Invoice: INV-358264 | PO: PO-5312
+Amount: 27,576.73 TWD
+Payment Method: SEPA
+Bank: Goldman Sachs (Branch Code: 896)
+Account Number: BFUL12728317698338
+Beneficiary: Éric Carpentier
+Risk Score: Critical
+226. Transaction ID: 01e06c4f-403e-4c6b-ac46-d97ae9c9c754
+Transaction Date: 06/24/2025
+Value Date: 06/26/2025
+Posting Date: 06/28/2025
+Vendor: Scott, Briggs and Rivera (ID: VND-60549)
+Invoice: INV-522307 | PO: PO-6629
+Amount: 28,800.25 IRR
+Payment Method: Check
+Bank: JPMorgan Chase (Branch Code: 237)
+Account Number: 17894796715811522713393
+Beneficiary: Dr Jeffrey Morgan
+Risk Score: Critical
+227. Transaction ID: 0a2c2f79-317a-4b5e-992d-1763e77f0372
+Transaction Date: 10/09/2025
+Value Date: 10/10/2025
+Posting Date: 10/13/2025
+Vendor: Etzler (ID: VND-85896)
+Invoice: INV-887950 | PO: PO-7408
+Amount: 31,472.03 SRD
+Payment Method: Check
+Bank: Morgan Stanley (Branch Code: 266)
+Account Number: YPXV35268651635452
+Beneficiary: Alphonse Guibert
+Risk Score: Medium
+228. Transaction ID: d0f87d7e-5c27-470e-93a4-21a2bd147792
+Transaction Date: 01/02/2026
+Value Date: 01/04/2026
+Posting Date: 01/09/2026
+Vendor: Walker-Dickinson (ID: VND-59276)
+Invoice: INV-445045 | PO: PO-6354
+Amount: 40,310.40 MXN
+Payment Method: Check
+Bank: Société Générale (Branch Code: 437)
+Account Number: 163534489922696342
+Beneficiary: Joshua Sharp
+Risk Score: Critical
+229. Transaction ID: 089f8ce9-0654-4d8d-b9ef-ae7491b641bd
+Transaction Date: 04/02/2025
+Value Date: 04/03/2025
+Posting Date: 04/04/2025
+Vendor: Stevens, Smith and Baker (ID: VND-43408)
+Invoice: INV-470037 | PO: PO-5206
+Amount: 41,237.60 MNT
+Payment Method: Wire Transfer
+Bank: JPMorgan Chase (Branch Code: 251)
+Account Number: 48172823307064213787038
+Beneficiary: Lorraine Bernier
+Risk Score: High
+230. Transaction ID: 5e2812c4-fc56-4d2d-9823-93769d23d477
+Transaction Date: 01/04/2026
+Value Date: 01/06/2026
+Posting Date: 01/08/2026
+Vendor: Matthews, Gregory and James (ID: VND-82890)
+Invoice: INV-339387 | PO: PO-5490
+Amount: 39,801.27 EGP
+Payment Method: SEPA
+Bank: Bank of America (Branch Code: 398)
+Account Number: 602742734307395304
+Beneficiary: Nicholas Mathews
+Risk Score: Medium
+231. Transaction ID: 05c8b33c-42df-4777-bd6f-c6ad9e0caa4f
+Transaction Date: 10/08/2025
+Value Date: 10/10/2025
+Posting Date: 10/15/2025
+Vendor: Johnson-Hobbs (ID: VND-18537)
+Invoice: INV-412525 | PO: PO-8481
+Amount: 3,267.25 CDF
+Payment Method: SEPA
+Bank: Toronto-Dominion Bank (Branch Code: 390)
+Account Number: JESQ03076356688936
+Beneficiary: Reece Watkins
+Risk Score: Critical
+232. Transaction ID: 55455ac0-fa7f-44a5-aa74-a554d4709966
+Transaction Date: 02/14/2025
+Value Date: 02/14/2025
+Posting Date: 02/17/2025
+Vendor: Rosemann GbR (ID: VND-90382)
+Invoice: INV-240135 | PO: PO-6560
+Amount: 45,043.78 DZD
+Payment Method: Credit Card
+Bank: Citigroup (Branch Code: 588)
+Account Number: 10242186723900045597553
+Beneficiary: Annemie Keudel MBA.
+Risk Score: Low
+233. Transaction ID: db3d4cf7-e7d0-4f2d-8dcc-583126419a44
+Transaction Date: 02/13/2025
+Value Date: 02/15/2025
+Posting Date: 02/20/2025
+Vendor: Ramsey, Andrews and Orozco (ID: VND-49463)
+Invoice: INV-601903 | PO: PO-6150
+Amount: 38,263.74 GTQ
+Payment Method: Wire Transfer
+Bank: Banco Santander (Branch Code: 558)
+Account Number: 43197916250443564907027
+Beneficiary: Guido Freudenberger
+Risk Score: High
+234. Transaction ID: 058dca00-c8f1-4d45-a933-ee82f5674745
+Transaction Date: 12/27/2025
+Value Date: 12/28/2025
+Posting Date: 01/02/2026
+Vendor: Goodwin and Sons (ID: VND-76484)
+Invoice: INV-452591 | PO: PO-5179
+Amount: 21,636.53 GNF
+Payment Method: Credit Card
+Bank: Credit Suisse (Branch Code: 746)
+Account Number: RNKI67077804995354
+Beneficiary: Élodie Leclercq
+Risk Score: Medium
+235. Transaction ID: c64aac6f-6580-458f-bf0d-313bb35a6cd3
+Transaction Date: 02/11/2025
+Value Date: 02/12/2025
+Posting Date: 02/17/2025
+Vendor: Avila, Curtis and Huynh (ID: VND-47597)
+Invoice: INV-376249 | PO: PO-5855
+Amount: 13,514.96 ZMW
+Payment Method: SEPA
+Bank: Credit Suisse (Branch Code: 555)
+Account Number: HPKG37122254436809
+Beneficiary: Ms Rosie Cook
+Risk Score: Medium
+236. Transaction ID: 7f259120-ee36-4f49-917e-7be530e34b95
+Transaction Date: 12/14/2025
+Value Date: 12/14/2025
+Posting Date: 12/18/2025
+Vendor: Ball Inc (ID: VND-87272)
+Invoice: INV-445670 | PO: PO-8946
+Amount: 46,488.85 LAK
+Payment Method: Wire Transfer
+Bank: HSBC Holdings (Branch Code: 517)
+Account Number: DAOE24653822603197
+Beneficiary: Ottfried Klemt B.Sc.
+Risk Score: High
+237. Transaction ID: 97629d14-2131-4506-a98f-192c3ce74cf6
+Transaction Date: 11/15/2025
+Value Date: 11/16/2025
+Posting Date: 11/16/2025
+Vendor: Mosley Ltd (ID: VND-84612)
+Invoice: INV-887463 | PO: PO-6018
+Amount: 46,749.50 LTL
+Payment Method: Wire Transfer
+Bank: BNP Paribas (Branch Code: 999)
+Account Number: UTAE97326480055571
+Beneficiary: Rose Brown
+Risk Score: High
+238. Transaction ID: 27dfb7fa-f8c0-4775-b7ed-7cb801532a3a
+Transaction Date: 12/20/2025
+Value Date: 12/21/2025
+Posting Date: 12/26/2025
+Vendor: Jenkins-Rowe (ID: VND-22662)
+Invoice: INV-772912 | PO: PO-9371
+Amount: 15,660.71 TVD
+Payment Method: Check
+Bank: Goldman Sachs (Branch Code: 361)
+Account Number: 77539762319728614199157
+Beneficiary: Aimée Jacob
+Risk Score: Medium
+239. Transaction ID: d4d3d329-d83b-4a4f-bc3e-5d4fa73f6ec5
+Transaction Date: 09/27/2025
+Value Date: 09/27/2025
+Posting Date: 09/29/2025
+Vendor: Kallert (ID: VND-10749)
+Invoice: INV-748885 | PO: PO-7278
+Amount: 8,393.38 LTL
+Payment Method: ACH
+Bank: NatWest Group (Branch Code: 868)
+Account Number: 35998118178347879803381
+Beneficiary: Univ.Prof. Agathe Budig
+Risk Score: Critical
+240. Transaction ID: f1c6378a-527c-4491-aa4a-7818a96c41d8
+Transaction Date: 04/26/2025
+Value Date: 04/26/2025
+Posting Date: 04/28/2025
+Vendor: Hopkins Ltd (ID: VND-78925)
+Invoice: INV-781508 | PO: PO-6075
+Amount: 38,745.51 KHR
+Payment Method: ACH
+Bank: Royal Bank of Canada (Branch Code: 561)
+Account Number: PVRL05262654204649
+Beneficiary: Megan Schultz
+Risk Score: Low
+241. Transaction ID: 5dd9ad2b-8375-49e5-8c33-f8d749763863
+Transaction Date: 01/27/2026
+Value Date: 01/28/2026
+Posting Date: 01/30/2026
+Vendor: Louis (ID: VND-45583)
+Invoice: INV-689830 | PO: PO-6328
+Amount: 35,612.33 SZL
+Payment Method: Credit Card
+Bank: JPMorgan Chase (Branch Code: 456)
+Account Number: 27659337568532388991351
+Beneficiary: Dr Conor Poole
+Risk Score: Low
+242. Transaction ID: ca934a52-da3e-403e-9067-e9bdb3ed9952
+Transaction Date: 11/28/2025
+Value Date: 11/29/2025
+Posting Date: 12/01/2025
+Vendor: Gillet (ID: VND-99684)
+Invoice: INV-350621 | PO: PO-6422
+Amount: 40,301.87 LBP
+Payment Method: SEPA
+Bank: Lloyds Banking Group (Branch Code: 482)
+Account Number: REIO64612596094680
+Beneficiary: Mrs Pamela Stevens
+Risk Score: Low
+243. Transaction ID: aee5f560-ca89-47ab-b261-b29b80bd79cd
+Transaction Date: 05/15/2025
+Value Date: 05/17/2025
+Posting Date: 05/19/2025
+Vendor: Sorgatz (ID: VND-79335)
+Invoice: INV-142195 | PO: PO-5554
+Amount: 6,839.87 XCD
+Payment Method: ACH
+Bank: Wells Fargo (Branch Code: 407)
+Account Number: DZNJ20186339172663
+Beneficiary: Jeffrey Fisher
+Risk Score: High
+244. Transaction ID: 6b603a73-6ba9-4e93-8e7c-7d45884ab08d
+Transaction Date: 04/25/2025
+Value Date: 04/25/2025
+Posting Date: 04/27/2025
+Vendor: Williams-Sanchez (ID: VND-36343)
+Invoice: INV-835836 | PO: PO-5339
+Amount: 45,389.71 KES
+Payment Method: Check
+Bank: BNP Paribas (Branch Code: 775)
+Account Number: PHFX85890338348690
+Beneficiary: Christina Levine
+Risk Score: Critical
+245. Transaction ID: 57318d43-bfb3-41c9-84c4-18ad1de39187
+Transaction Date: 05/24/2025
+Value Date: 05/26/2025
+Posting Date: 05/29/2025
+Vendor: Jackson Inc (ID: VND-69063)
+Invoice: INV-482216 | PO: PO-6356
+Amount: 25,973.28 SCR
+Payment Method: Credit Card
+Bank: Société Générale (Branch Code: 548)
+Account Number: 899913090146840681
+Beneficiary: Kenneth Carney
+Risk Score: High
+246. Transaction ID: 1a4b17b7-eb9e-49e0-a9ee-6c0219ff7905
+Transaction Date: 03/04/2025
+Value Date: 03/05/2025
+Posting Date: 03/08/2025
+Vendor: Robinson, Martin and Collins (ID: VND-99198)
+Invoice: INV-919611 | PO: PO-9140
+Amount: 39,389.31 NAD
+Payment Method: Credit Card
+Bank: Commerzbank (Branch Code: 859)
+Account Number: ZLKZ88871976928522
+Beneficiary: Abbie Campbell
+Risk Score: Critical
+247. Transaction ID: fee568a6-391d-40c1-83ce-bc114e158874
+Transaction Date: 06/27/2025
+Value Date: 06/29/2025
+Posting Date: 06/30/2025
+Vendor: Schuster Klemm GmbH & Co. KG (ID: VND-21696)
+Invoice: INV-605320 | PO: PO-5739
+Amount: 48,043.97 NOK
+Payment Method: Credit Card
+Bank: Société Générale (Branch Code: 673)
+Account Number: MPRM42109336937700
+Beneficiary: Greg Gilbert
+Risk Score: High
+248. Transaction ID: e957dbfa-400e-4c51-815c-2ff27339bb44
+Transaction Date: 05/17/2025
+Value Date: 05/19/2025
+Posting Date: 05/22/2025
+Vendor: Benthin Dörschner AG (ID: VND-44779)
+Invoice: INV-199892 | PO: PO-5559
+Amount: 1,769.64 SHP
+Payment Method: ACH
+Bank: HSBC Holdings (Branch Code: 465)
+Account Number: 91703313290980554202670
+Beneficiary: Mark Pollard
+Risk Score: High
+249. Transaction ID: 1a96a71d-d0f3-4001-83b9-ba04d09b0090
+Transaction Date: 10/07/2025
+Value Date: 10/09/2025
+Posting Date: 10/13/2025
+Vendor: Jacques (ID: VND-24080)
+Invoice: INV-886239 | PO: PO-8709
+Amount: 13,130.46 ZAR
+Payment Method: SEPA
+Bank: Banco Santander (Branch Code: 576)
+Account Number: DQHC65850105579114
+Beneficiary: Chelsea Atkinson
+Risk Score: Low
+250. Transaction ID: a75c5a52-cc5b-449f-9bc7-e1b0520fb6a1
+Transaction Date: 03/18/2025
+Value Date: 03/18/2025
+Posting Date: 03/22/2025
+Vendor: Le Roux Godard S.A.R.L. (ID: VND-65645)
+Invoice: INV-967892 | PO: PO-8402
+Amount: 37,783.20 MWK
+Payment Method: Credit Card
+Bank: Citigroup (Branch Code: 527)
+Account Number: 809424557737992135
+Beneficiary: Kimberly Pollard
+Risk Score: Low
+251. Transaction ID: ec97d182-3400-4538-a3e0-6461b11f6b8f
+Transaction Date: 11/11/2025
+Value Date: 11/12/2025
+Posting Date: 11/12/2025
+Vendor: Young-Lloyd (ID: VND-26196)
+Invoice: INV-380006 | PO: PO-5824
+Amount: 14,370.78 SBD
+Payment Method: ACH
+Bank: Lloyds Banking Group (Branch Code: 739)
+Account Number: 318986779301268501
+Beneficiary: Rosina Bonbach
+Risk Score: High
+252. Transaction ID: ef817970-f256-432e-917a-429b0c58e940
+Transaction Date: 10/27/2025
+Value Date: 10/27/2025
+Posting Date: 10/27/2025
+Vendor: Stahr (ID: VND-67923)
+Invoice: INV-859385 | PO: PO-7975
+Amount: 49,362.30 ZWD
+Payment Method: SEPA
+Bank: BNP Paribas (Branch Code: 452)
+Account Number: WNGO26384949189967
+Beneficiary: Jason Rose
+Risk Score: Medium
+253. Transaction ID: 1fd152ef-d619-411b-bccb-4a0ac79eb924
+Transaction Date: 03/14/2025
+Value Date: 03/16/2025
+Posting Date: 03/16/2025
+Vendor: Hornich AG (ID: VND-64202)
+Invoice: INV-154685 | PO: PO-6220
+Amount: 1,757.10 MGA
+Payment Method: ACH
+Bank: NatWest Group (Branch Code: 440)
+Account Number: 53884885574168518025533
+Beneficiary: Hugo Seidel
+Risk Score: Medium
+254. Transaction ID: 3c7da5bb-c504-46ae-a130-7b1f8862089a
+Transaction Date: 02/11/2025
+Value Date: 02/11/2025
+Posting Date: 02/12/2025
+Vendor: Benthin Hesse AG (ID: VND-22472)
+Invoice: INV-411526 | PO: PO-6274
+Amount: 39,478.54 GTQ
+Payment Method: Check
+Bank: Toronto-Dominion Bank (Branch Code: 539)
+Account Number: 48406721825101804200084
+Beneficiary: Claude Robin
+Risk Score: High
+255. Transaction ID: 786a857c-c0a8-42d3-9fa7-4ab34306a8b2
+Transaction Date: 06/28/2025
+Value Date: 06/30/2025
+Posting Date: 07/05/2025
+Vendor: Davenport, Pitts and Tucker (ID: VND-53880)
+Invoice: INV-649082 | PO: PO-7679
+Amount: 19,967.99 RSD
+Payment Method: Credit Card
+Bank: JPMorgan Chase (Branch Code: 572)
+Account Number: GOEF40918957823571
+Beneficiary: Lisa Sanchez
+Risk Score: Medium
+256. Transaction ID: 09a2361f-4903-41b7-91fa-688626a82487
+Transaction Date: 12/20/2025
+Value Date: 12/22/2025
+Posting Date: 12/27/2025
+Vendor: Schweitzer (ID: VND-79344)
+Invoice: INV-879196 | PO: PO-5809
+Amount: 35,143.50 BBD
+Payment Method: Wire Transfer
+Bank: Crédit Agricole (Branch Code: 962)
+Account Number: 13862897507929395784050
+Beneficiary: Amanda Lopez
+Risk Score: Medium
+257. Transaction ID: de5155da-44ad-4292-acc2-286a792ab69c
+Transaction Date: 07/31/2025
+Value Date: 08/02/2025
+Posting Date: 08/04/2025
+Vendor: Young LLC (ID: VND-74863)
+Invoice: INV-923445 | PO: PO-7374
+Amount: 9,284.24 SYP
+Payment Method: Check
+Bank: Société Générale (Branch Code: 242)
+Account Number: WEQF71942758765662
+Beneficiary: Denis Parker
+Risk Score: High
+258. Transaction ID: 66e1178e-7bd0-4be5-b933-a58374f9fdcd
+Transaction Date: 09/16/2025
+Value Date: 09/18/2025
+Posting Date: 09/21/2025
+Vendor: Payet (ID: VND-95592)
+Invoice: INV-474709 | PO: PO-9982
+Amount: 44,934.90 KHR
+Payment Method: Credit Card
+Bank: HSBC Holdings (Branch Code: 130)
+Account Number: 23762638147450088656754
+Beneficiary: Mary Jones
+Risk Score: High
+259. Transaction ID: 2863a182-a8eb-43fa-a892-a678def38218
+Transaction Date: 08/01/2025
+Value Date: 08/01/2025
+Posting Date: 08/06/2025
+Vendor: Ferguson PLC (ID: VND-90616)
+Invoice: INV-744790 | PO: PO-8669
+Amount: 44,881.16 KHR
+Payment Method: SEPA
+Bank: Wells Fargo (Branch Code: 415)
+Account Number: 431984928599908199
+Beneficiary: Ricardo Oconnor
+Risk Score: Medium
+260. Transaction ID: d1cac7a0-e2be-4250-ac93-df78c251fa8f
+Transaction Date: 10/31/2025
+Value Date: 11/01/2025
+Posting Date: 11/01/2025
+Vendor: Reichmann (ID: VND-50448)
+Invoice: INV-393490 | PO: PO-6361
+Amount: 25,169.53 NZD
+Payment Method: Wire Transfer
+Bank: BNP Paribas (Branch Code: 963)
+Account Number: PGVW00464791356850
+Beneficiary: Miss Teresa Freeman
+Risk Score: Medium
+261. Transaction ID: bad5f032-17da-408a-95e6-695fab0ee1ef
+Transaction Date: 12/10/2025
+Value Date: 12/11/2025
+Posting Date: 12/13/2025
+Vendor: Diaz Roux et Fils (ID: VND-53612)
+Invoice: INV-575136 | PO: PO-6855
+Amount: 9,979.22 BAM
+Payment Method: Credit Card
+Bank: JPMorgan Chase (Branch Code: 187)
+Account Number: 27194888128093943325425
+Beneficiary: Dr. Annaliese Wulf
+Risk Score: Low
+262. Transaction ID: 7547e220-89f8-4913-aebc-a7874576c186
+Transaction Date: 02/11/2025
+Value Date: 02/13/2025
+Posting Date: 02/14/2025
+Vendor: Davis LLC (ID: VND-98105)
+Invoice: INV-344801 | PO: PO-7471
+Amount: 43,858.82 SRD
+Payment Method: SEPA
+Bank: Morgan Stanley (Branch Code: 471)
+Account Number: OLFF00688470653241
+Beneficiary: Telse Faust
+Risk Score: Low
+263. Transaction ID: 886b20ea-78f0-45bf-a604-d846431140d6
+Transaction Date: 04/24/2025
+Value Date: 04/24/2025
+Posting Date: 04/26/2025
+Vendor: Weiß Heintze KGaA (ID: VND-15206)
+Invoice: INV-623248 | PO: PO-6210
+Amount: 45,437.70 TJS
+Payment Method: Credit Card
+Bank: Commerzbank (Branch Code: 353)
+Account Number: UJDA77945543962441
+Beneficiary: Priscilla Serrano
+Risk Score: Critical
+264. Transaction ID: 96e072b7-7e86-4020-9631-bbbfda392d43
+Transaction Date: 04/22/2025
+Value Date: 04/23/2025
+Posting Date: 04/28/2025
+Vendor: Grein Groth (ID: VND-23884)
+Invoice: INV-800773 | PO: PO-9714
+Amount: 28,586.54 TWD
+Payment Method: ACH
+Bank: Crédit Agricole (Branch Code: 864)
+Account Number: AEAQ57181556219907
+Beneficiary: Frau Ann Riehl B.Sc.
+Risk Score: Critical
+265. Transaction ID: b3c99e07-2cfa-42e1-b12a-028c40a0fb5b
+Transaction Date: 05/05/2025
+Value Date: 05/06/2025
+Posting Date: 05/11/2025
+Vendor: Anders (ID: VND-48385)
+Invoice: INV-411482 | PO: PO-5466
+Amount: 46,031.27 AFN
+Payment Method: Credit Card
+Bank: Commerzbank (Branch Code: 459)
+Account Number: 203316276665362088
+Beneficiary: Miss Cheryl Morris
+Risk Score: Critical
+266. Transaction ID: c36b5950-caf0-489d-a7e0-3e59ba9b73ef
+Transaction Date: 01/20/2026
+Value Date: 01/20/2026
+Posting Date: 01/21/2026
+Vendor: Davis, Richards and Ward (ID: VND-64948)
+Invoice: INV-408115 | PO: PO-6512
+Amount: 47,541.04 CNY
+Payment Method: Check
+Bank: NatWest Group (Branch Code: 579)
+Account Number: 312986367002576311
+Beneficiary: Leah Green
+Risk Score: Critical
+267. Transaction ID: 960a2c78-2fc8-44bf-b81e-7395b4fffc11
+Transaction Date: 04/15/2025
+Value Date: 04/17/2025
+Posting Date: 04/21/2025
+Vendor: Marshall, Byrne and Mahmood (ID: VND-85726)
+Invoice: INV-326885 | PO: PO-6817
+Amount: 4,948.43 LAK
+Payment Method: Wire Transfer
+Bank: Bank of America (Branch Code: 729)
+Account Number: AWFA63518472706052
+Beneficiary: Dr Georgina Smith
+Risk Score: High
+268. Transaction ID: 0d935d1c-a663-4b67-ad6a-622c113107be
+Transaction Date: 10/24/2025
+Value Date: 10/25/2025
+Posting Date: 10/25/2025
+Vendor: Scott, Ross and Weaver (ID: VND-17127)
+Invoice: INV-885686 | PO: PO-8312
+Amount: 9,666.34 FKP
+Payment Method: Wire Transfer
+Bank: NatWest Group (Branch Code: 264)
+Account Number: JCLQ55854496723054
+Beneficiary: Mrs Emily Wright
+Risk Score: High
+269. Transaction ID: 044c4908-c4f0-4f95-af02-50736c95c563
+Transaction Date: 05/13/2025
+Value Date: 05/13/2025
+Posting Date: 05/16/2025
+Vendor: Regnier (ID: VND-34163)
+Invoice: INV-636207 | PO: PO-9913
+Amount: 2,624.97 GBP
+Payment Method: Check
+Bank: Bank of America (Branch Code: 877)
+Account Number: IJOG78998207406568
+Beneficiary: Susan Simon-Benoit
+Risk Score: Low
+270. Transaction ID: 1e8335fb-cd28-4f7b-91cf-db74e3ff45e2
+Transaction Date: 06/23/2025
+Value Date: 06/23/2025
+Posting Date: 06/24/2025
+Vendor: Carroll Group (ID: VND-99942)
+Invoice: INV-465995 | PO: PO-6542
+Amount: 29,563.33 CDF
+Payment Method: ACH
+Bank: Royal Bank of Canada (Branch Code: 929)
+Account Number: CPTR86996193987832
+Beneficiary: Julien Guibert
+Risk Score: Low
+271. Transaction ID: 739553ac-538f-4bfd-ac78-d2ba0302188c
+Transaction Date: 08/18/2025
+Value Date: 08/20/2025
+Posting Date: 08/20/2025
+Vendor: Noël (ID: VND-51234)
+Invoice: INV-691711 | PO: PO-7690
+Amount: 33,722.70 XCD
+Payment Method: ACH
+Bank: Royal Bank of Canada (Branch Code: 165)
+Account Number: 56941231471789774302830
+Beneficiary: Christophe Gonzalez
+Risk Score: Low
+272. Transaction ID: 8af900b5-a9ad-4bbd-8eed-d0c5401ade0f
+Transaction Date: 02/20/2025
+Value Date: 02/22/2025
+Posting Date: 02/25/2025
+Vendor: Harrison Inc (ID: VND-38342)
+Invoice: INV-722858 | PO: PO-5573
+Amount: 20,914.05 NGN
+Payment Method: Wire Transfer
+Bank: Commerzbank (Branch Code: 344)
+Account Number: OECB15193606640996
+Beneficiary: Christopher Carrillo
+Risk Score: Medium
+273. Transaction ID: 40dbe334-fa0e-41d5-acca-b994e7c622ce
+Transaction Date: 06/24/2025
+Value Date: 06/25/2025
+Posting Date: 06/30/2025
+Vendor: Parker Group (ID: VND-81390)
+Invoice: INV-326077 | PO: PO-6191
+Amount: 46,605.69 MKD
+Payment Method: Wire Transfer
+Bank: Banco Santander (Branch Code: 573)
+Account Number: YIMZ21662682459544
+Beneficiary: Ramazan Mülichen
+Risk Score: Low
+274. Transaction ID: 6eca4a4e-387e-4c55-8fb8-86e0f0a6f9bb
+Transaction Date: 09/13/2025
+Value Date: 09/13/2025
+Posting Date: 09/18/2025
+Vendor: Cunningham Group (ID: VND-36749)
+Invoice: INV-380236 | PO: PO-8709
+Amount: 18,222.68 ZAR
+Payment Method: ACH
+Bank: Goldman Sachs (Branch Code: 196)
+Account Number: UMYA70599361133686
+Beneficiary: Prof. Raymond Säuberlich B.A.
+Risk Score: Low
+275. Transaction ID: 389f80f3-5b6c-46bb-968c-0674e47818ae
+Transaction Date: 08/06/2025
+Value Date: 08/08/2025
+Posting Date: 08/08/2025
+Vendor: Lewis Inc (ID: VND-87354)
+Invoice: INV-259713 | PO: PO-5246
+Amount: 12,235.75 BAM
+Payment Method: Credit Card
+Bank: Credit Suisse (Branch Code: 873)
+Account Number: NVTJ73986756411873
+Beneficiary: Virginie-Aimée Voisin
+Risk Score: Low
+276. Transaction ID: 007dddd1-43fa-44ee-874d-27203d3f5879
+Transaction Date: 06/05/2025
+Value Date: 06/05/2025
+Posting Date: 06/10/2025
+Vendor: Gaudin Lemaître S.A. (ID: VND-48370)
+Invoice: INV-334459 | PO: PO-7369
+Amount: 7,725.88 THB
+Payment Method: SEPA
+Bank: Barclays (Branch Code: 355)
+Account Number: JPAN37387782600578
+Beneficiary: Amelia Gardiner
+Risk Score: Low
+277. Transaction ID: 5f01db4a-ee3b-4bb0-a3e8-6140b4635d14
+Transaction Date: 11/24/2025
+Value Date: 11/26/2025
+Posting Date: 11/29/2025
+Vendor: Evans-Boyd (ID: VND-39861)
+Invoice: INV-733862 | PO: PO-6148
+Amount: 24,763.97 TOP
+Payment Method: Wire Transfer
+Bank: Citigroup (Branch Code: 524)
+Account Number: FWST77731046776251
+Beneficiary: Emilie Hornich
+Risk Score: Critical
+278. Transaction ID: b34f17ac-3d5a-4e8f-a041-2d14c303a805
+Transaction Date: 03/06/2025
+Value Date: 03/07/2025
+Posting Date: 03/12/2025
+Vendor: Dupont (ID: VND-42384)
+Invoice: INV-305146 | PO: PO-7148
+Amount: 9,355.19 PEN
+Payment Method: Credit Card
+Bank: Royal Bank of Canada (Branch Code: 772)
+Account Number: 06966822586154374543303
+Beneficiary: Dr Christopher Howard
+Risk Score: High
+279. Transaction ID: f1becac5-4ffa-4422-ac83-18c6934d6179
+Transaction Date: 12/04/2025
+Value Date: 12/05/2025
+Posting Date: 12/06/2025
+Vendor: Benard Maurice S.A. (ID: VND-92318)
+Invoice: INV-325966 | PO: PO-8209
+Amount: 21,081.30 BIF
+Payment Method: Wire Transfer
+Bank: Barclays (Branch Code: 518)
+Account Number: WJMT48700611199633
+Beneficiary: Gabriel Guérin
+Risk Score: Medium
+280. Transaction ID: 12c9d2ca-548c-43b7-9d5f-e92c6f0da8f4
+Transaction Date: 07/17/2025
+Value Date: 07/19/2025
+Posting Date: 07/24/2025
+Vendor: Carr-Johnson (ID: VND-30165)
+Invoice: INV-360392 | PO: PO-5531
+Amount: 16,855.99 THB
+Payment Method: Wire Transfer
+Bank: Lloyds Banking Group (Branch Code: 762)
+Account Number: 484052806291806988
+Beneficiary: Sabine Collin
+Risk Score: Low
+281. Transaction ID: baaad499-d902-44af-8ba9-9bacd1ea6794
+Transaction Date: 02/02/2026
+Value Date: 02/04/2026
+Posting Date: 02/07/2026
+Vendor: Patel, Smith and Jones (ID: VND-23663)
+Invoice: INV-514243 | PO: PO-6470
+Amount: 37,111.27 IRR
+Payment Method: Credit Card
+Bank: Bank of America (Branch Code: 342)
+Account Number: IRZI53011808082627
+Beneficiary: Univ.Prof. Reimund Ebert MBA.
+Risk Score: High
+282. Transaction ID: c2821d09-d454-4e8c-935d-2931d764d104
+Transaction Date: 11/26/2025
+Value Date: 11/26/2025
+Posting Date: 11/26/2025
+Vendor: Millet (ID: VND-71186)
+Invoice: INV-217246 | PO: PO-8093
+Amount: 48,163.79 TOP
+Payment Method: ACH
+Bank: BNP Paribas (Branch Code: 185)
+Account Number: HIRQ32443814867130
+Beneficiary: Dennis Alvarez
+Risk Score: Medium
+283. Transaction ID: a5994f17-50eb-49a0-a1a4-311a5767060c
+Transaction Date: 06/06/2025
+Value Date: 06/07/2025
+Posting Date: 06/09/2025
+Vendor: Jones, Harris and Cooke (ID: VND-55494)
+Invoice: INV-772063 | PO: PO-6588
+Amount: 43,066.59 KRW
+Payment Method: SEPA
+Bank: Société Générale (Branch Code: 865)
+Account Number: BSJK15971923861839
+Beneficiary: Tabea Scheibe
+Risk Score: High
+284. Transaction ID: 6b398ed4-fe43-4786-a924-d3a812426c86
+Transaction Date: 07/13/2025
+Value Date: 07/15/2025
+Posting Date: 07/19/2025
+Vendor: Evans and Sons (ID: VND-13223)
+Invoice: INV-339817 | PO: PO-6836
+Amount: 3,714.90 SYP
+Payment Method: Wire Transfer
+Bank: Barclays (Branch Code: 574)
+Account Number: DNNV12558889769744
+Beneficiary: Juan Johnson
+Risk Score: Medium
+285. Transaction ID: 552ff869-7116-4d50-85ab-6545cbc31239
+Transaction Date: 05/25/2025
+Value Date: 05/27/2025
+Posting Date: 05/29/2025
+Vendor: Osborne Inc (ID: VND-30854)
+Invoice: INV-307839 | PO: PO-5340
+Amount: 30,647.41 TVD
+Payment Method: SEPA
+Bank: Royal Bank of Canada (Branch Code: 464)
+Account Number: HNBA31993147918173
+Beneficiary: Luc Laporte-Gilbert
+Risk Score: Critical
+286. Transaction ID: 05ec6842-acc3-4b9f-b198-5c8fb5432562
+Transaction Date: 10/13/2025
+Value Date: 10/13/2025
+Posting Date: 10/16/2025
+Vendor: Sparks Ltd (ID: VND-60520)
+Invoice: INV-716424 | PO: PO-8138
+Amount: 34,131.43 XAF
+Payment Method: Check
+Bank: Banco Santander (Branch Code: 848)
+Account Number: HOEI83114109297935
+Beneficiary: Leon Smith
+Risk Score: Medium
+287. Transaction ID: f00f4637-6dd6-4886-b50d-42162738f21d
+Transaction Date: 01/02/2026
+Value Date: 01/04/2026
+Posting Date: 01/09/2026
+Vendor: Davies-Williamson (ID: VND-39341)
+Invoice: INV-236174 | PO: PO-7384
+Amount: 4,132.34 MUR
+Payment Method: Credit Card
+Bank: Société Générale (Branch Code: 755)
+Account Number: 985653649217791018
+Beneficiary: Hartmut Haering
+Risk Score: High
+288. Transaction ID: 4c5a9f5b-8299-46b3-82e2-d889273a7a6f
+Transaction Date: 08/28/2025
+Value Date: 08/29/2025
+Posting Date: 09/01/2025
+Vendor: Elliott-Wood (ID: VND-37528)
+Invoice: INV-566563 | PO: PO-5870
+Amount: 8,913.89 PYG
+Payment Method: Wire Transfer
+Bank: Commerzbank (Branch Code: 486)
+Account Number: 22922293188493224163299
+Beneficiary: Priska Scheibe
+Risk Score: Critical
+289. Transaction ID: 8fe9095d-e2a3-405b-9f45-6a2f777f1740
+Transaction Date: 05/04/2025
+Value Date: 05/05/2025
+Posting Date: 05/09/2025
+Vendor: Diaz Ltd (ID: VND-16879)
+Invoice: INV-577394 | PO: PO-6589
+Amount: 28,975.92 BIF
+Payment Method: SEPA
+Bank: Bank of America (Branch Code: 722)
+Account Number: 898851625767130638
+Beneficiary: Lori Acosta
+Risk Score: Critical
+290. Transaction ID: bb0d706a-12a0-4af4-ae4c-fb1364fd26f1
+Transaction Date: 05/29/2025
+Value Date: 05/30/2025
+Posting Date: 05/31/2025
+Vendor: Jordan-Mann (ID: VND-71543)
+Invoice: INV-218450 | PO: PO-6096
+Amount: 41,327.36 SGD
+Payment Method: SEPA
+Bank: Banco Santander (Branch Code: 916)
+Account Number: DQZC71434718090751
+Beneficiary: Nancy Scott
+Risk Score: Low
+291. Transaction ID: 91cf937f-919e-4da6-a1f7-2b04435222c4
+Transaction Date: 11/28/2025
+Value Date: 11/28/2025
+Posting Date: 11/28/2025
+Vendor: Hanson-Smith (ID: VND-46406)
+Invoice: INV-745390 | PO: PO-8762
+Amount: 41,108.47 PAB
+Payment Method: ACH
+Bank: Royal Bank of Canada (Branch Code: 848)
+Account Number: 444975169225341186
+Beneficiary: Sarah Cox
+Risk Score: Critical
+292. Transaction ID: dce449e3-5a6a-4431-af8a-45db032d42c8
+Transaction Date: 09/27/2025
+Value Date: 09/28/2025
+Posting Date: 10/02/2025
+Vendor: Baker-Garcia (ID: VND-76184)
+Invoice: INV-831336 | PO: PO-8766
+Amount: 36,076.93 TOP
+Payment Method: ACH
+Bank: Toronto-Dominion Bank (Branch Code: 972)
+Account Number: 62309607500214266160064
+Beneficiary: Terri Galloway
+Risk Score: Medium
+293. Transaction ID: c080721e-d85b-4fd5-93dd-cd87415fb349
+Transaction Date: 04/06/2025
+Value Date: 04/07/2025
+Posting Date: 04/10/2025
+Vendor: Lin Group (ID: VND-20172)
+Invoice: INV-824130 | PO: PO-8816
+Amount: 37,810.58 KWD
+Payment Method: Credit Card
+Bank: Commerzbank (Branch Code: 590)
+Account Number: VOYO56795725037135
+Beneficiary: Lisa Russell
+Risk Score: Medium
+294. Transaction ID: 9a831a14-506c-4c6b-b585-6220d7fc264a
+Transaction Date: 12/07/2025
+Value Date: 12/07/2025
+Posting Date: 12/08/2025
+Vendor: Roger (ID: VND-62443)
+Invoice: INV-460660 | PO: PO-8667
+Amount: 17,212.16 MUR
+Payment Method: Credit Card
+Bank: Crédit Agricole (Branch Code: 456)
+Account Number: WFEL50892456955663
+Beneficiary: Dr Jonathan Mills
+Risk Score: Critical
+295. Transaction ID: 3bd72abd-27b1-4286-bdc5-7061d30b1cae
+Transaction Date: 03/04/2025
+Value Date: 03/05/2025
+Posting Date: 03/06/2025
+Vendor: Schmidtke (ID: VND-72604)
+Invoice: INV-749284 | PO: PO-6981
+Amount: 42,360.55 BBD
+Payment Method: Wire Transfer
+Bank: Banco Santander (Branch Code: 202)
+Account Number: IIEU84694587826244
+Beneficiary: Michelle Marie
+Risk Score: High
+296. Transaction ID: 72148163-24b1-406d-afe2-eb99d364928c
+Transaction Date: 06/20/2025
+Value Date: 06/21/2025
+Posting Date: 06/25/2025
+Vendor: Mace SA (ID: VND-83911)
+Invoice: INV-785359 | PO: PO-5888
+Amount: 35,197.82 STD
+Payment Method: Wire Transfer
+Bank: BNP Paribas (Branch Code: 669)
+Account Number: 039200159533043743
+Beneficiary: Barbara Edwards
+Risk Score: Medium
+297. Transaction ID: 6ce55c93-5418-41ef-a41b-c21cf9561812
+Transaction Date: 06/25/2025
+Value Date: 06/27/2025
+Posting Date: 07/01/2025
+Vendor: Bohnbach Scheel GmbH (ID: VND-99834)
+Invoice: INV-760780 | PO: PO-6465
+Amount: 20,475.87 BMD
+Payment Method: Credit Card
+Bank: Lloyds Banking Group (Branch Code: 466)
+Account Number: 747397550765899684
+Beneficiary: Herr Matthäus Heintze B.A.
+Risk Score: Medium
+298. Transaction ID: caa2493b-69b0-4f9b-918f-bc6abeb5e983
+Transaction Date: 01/03/2026
+Value Date: 01/03/2026
+Posting Date: 01/07/2026
+Vendor: Barnett-Holmes (ID: VND-38231)
+Invoice: INV-518232 | PO: PO-8738
+Amount: 10,798.78 PHP
+Payment Method: ACH
+Bank: Banco Santander (Branch Code: 176)
+Account Number: CSUN17312224477062
+Beneficiary: Cameron King
+Risk Score: High
+299. Transaction ID: 22c7d0d8-bbc3-4522-bcf7-08513ec7e3c4
+Transaction Date: 09/10/2025
+Value Date: 09/12/2025
+Posting Date: 09/15/2025
+Vendor: Mann Ltd (ID: VND-57716)
+Invoice: INV-445013 | PO: PO-9174
+Amount: 5,342.05 ILS
+Payment Method: Check
+Bank: Goldman Sachs (Branch Code: 303)
+Account Number: 269770899812115659
+Beneficiary: Hinrich Barth B.Sc.
+Risk Score: Low
+300. Transaction ID: 17078114-567e-4be8-92bb-822002d90ce5
+Transaction Date: 11/27/2025
+Value Date: 11/28/2025
+Posting Date: 11/30/2025
+Vendor: Wilms (ID: VND-59535)
+Invoice: INV-635867 | PO: PO-6185
+Amount: 29,416.27 INR
+Payment Method: SEPA
+Bank: Toronto-Dominion Bank (Branch Code: 704)
+Account Number: OUNP25885355175354
+Beneficiary: Evamaria Fischer
+Risk Score: Critical
+301. Transaction ID: 1d5f8b2e-a39b-4862-908f-01ea537285e3
+Transaction Date: 02/01/2026
+Value Date: 02/03/2026
+Posting Date: 02/04/2026
+Vendor: Williams-King (ID: VND-31232)
+Invoice: INV-630303 | PO: PO-8402
+Amount: 45,074.77 UGX
+Payment Method: ACH
+Bank: Toronto-Dominion Bank (Branch Code: 858)
+Account Number: 14683219582489846485212
+Beneficiary: Ricardo Benson
+Risk Score: High
+302. Transaction ID: 3bf68e05-075b-4bfd-b158-1a7dff92e4b3
+Transaction Date: 01/21/2026
+Value Date: 01/21/2026
+Posting Date: 01/23/2026
+Vendor: Smith-Harris (ID: VND-34183)
+Invoice: INV-900849 | PO: PO-9417
+Amount: 24,929.69 BTN
+Payment Method: SEPA
+Bank: Bank of America (Branch Code: 214)
+Account Number: 504738899211457596
+Beneficiary: Louis Guillou
+Risk Score: High
+303. Transaction ID: d93008b9-3abf-49c2-9d32-a7d5a812c5ff
+Transaction Date: 04/16/2025
+Value Date: 04/17/2025
+Posting Date: 04/17/2025
+Vendor: Harrison Ltd (ID: VND-76541)
+Invoice: INV-277111 | PO: PO-9171
+Amount: 46,432.13 TRY
+Payment Method: Check
+Bank: Commerzbank (Branch Code: 840)
+Account Number: MNVQ17939023301377
+Beneficiary: Wayne Hayes-Peters
+Risk Score: Low
+304. Transaction ID: de800a03-1040-4180-b853-d200a2f6a1fa
+Transaction Date: 04/15/2025
+Value Date: 04/17/2025
+Posting Date: 04/20/2025
+Vendor: Wilson and Sons (ID: VND-94785)
+Invoice: INV-653115 | PO: PO-9086
+Amount: 35,152.44 BBD
+Payment Method: Check
+Bank: Banco Santander (Branch Code: 768)
+Account Number: 81944928875606111829942
+Beneficiary: Valentin Rust
+Risk Score: Medium
+305. Transaction ID: 14cb7e1f-899e-4773-aaf8-3203d4b9aaad
+Transaction Date: 09/28/2025
+Value Date: 09/29/2025
+Posting Date: 10/03/2025
+Vendor: Evans-Hunt (ID: VND-80248)
+Invoice: INV-825664 | PO: PO-9210
+Amount: 17,034.23 CZK
+Payment Method: SEPA
+Bank: Goldman Sachs (Branch Code: 314)
+Account Number: 733196591036673851
+Beneficiary: Roland Lopez
+Risk Score: Critical
+306. Transaction ID: 0ba8c821-d519-45c8-b571-07fbeed0bdf5
+Transaction Date: 04/21/2025
+Value Date: 04/23/2025
+Posting Date: 04/24/2025
+Vendor: Maldonado PLC (ID: VND-21013)
+Invoice: INV-857728 | PO: PO-6336
+Amount: 19,734.05 TTD
+Payment Method: Credit Card
+Bank: Deutsche Bank (Branch Code: 398)
+Account Number: VWAZ10277600262929
+Beneficiary: Paula Valenzuela
+Risk Score: High
+307. Transaction ID: 8e23c2aa-d1f2-4160-8db2-3478682a1f32
+Transaction Date: 07/15/2025
+Value Date: 07/15/2025
+Posting Date: 07/17/2025
+Vendor: Lachmann Bolander Stiftung & Co. KGaA (ID: VND-44363)
+Invoice: INV-473186 | PO: PO-9346
+Amount: 38,131.83 PEN
+Payment Method: Credit Card
+Bank: NatWest Group (Branch Code: 405)
+Account Number: 72111226604359297613088
+Beneficiary: Stacey Carter DDS
+Risk Score: High
+308. Transaction ID: 0bf70cd0-ff38-4233-a70f-2c28b09d66ba
+Transaction Date: 05/17/2025
+Value Date: 05/19/2025
+Posting Date: 05/19/2025
+Vendor: Hubert SARL (ID: VND-26532)
+Invoice: INV-461560 | PO: PO-7562
+Amount: 47,468.60 BTN
+Payment Method: Wire Transfer
+Bank: Toronto-Dominion Bank (Branch Code: 583)
+Account Number: DXFS15643744970216
+Beneficiary: Cheryl Smith
+Risk Score: High
+309. Transaction ID: b660424f-15e7-47de-88d0-bcdb2efc839a
+Transaction Date: 04/02/2025
+Value Date: 04/04/2025
+Posting Date: 04/09/2025
+Vendor: Collins-Garrett (ID: VND-22985)
+Invoice: INV-840469 | PO: PO-8333
+Amount: 47,060.11 RSD
+Payment Method: Wire Transfer
+Bank: JPMorgan Chase (Branch Code: 449)
+Account Number: ZJLP58572960367202
+Beneficiary: Hildegund Kohl
+Risk Score: Low
+310. Transaction ID: 7e4e7394-eb3d-45d7-9dab-3f8b1337a4b4
+Transaction Date: 07/29/2025
+Value Date: 07/30/2025
+Posting Date: 08/03/2025
+Vendor: Bourgeois (ID: VND-67651)
+Invoice: INV-101395 | PO: PO-6065
+Amount: 26,947.16 ETB
+Payment Method: SEPA
+Bank: Citigroup (Branch Code: 781)
+Account Number: 967452385882340753
+Beneficiary: Adina Gerlach
+Risk Score: Medium
+311. Transaction ID: 07c6b84b-4db3-4bec-8699-66264bb546bb
+Transaction Date: 09/28/2025
+Value Date: 09/28/2025
+Posting Date: 10/01/2025
+Vendor: Garcia PLC (ID: VND-28809)
+Invoice: INV-696781 | PO: PO-8167
+Amount: 23,029.55 JMD
+Payment Method: Credit Card
+Bank: Goldman Sachs (Branch Code: 803)
+Account Number: XUGM59571060612637
+Beneficiary: Marlene Beckmann B.Eng.
+Risk Score: Critical
+312. Transaction ID: fe9de4d5-4b7d-49be-90c1-c3d860f23d7f
+Transaction Date: 08/10/2025
+Value Date: 08/11/2025
+Posting Date: 08/14/2025
+Vendor: Cartwright, Yates and Brown (ID: VND-19923)
+Invoice: INV-348506 | PO: PO-5083
+Amount: 17,605.65 IDR
+Payment Method: Credit Card
+Bank: NatWest Group (Branch Code: 654)
+Account Number: WWDM00975006277937
+Beneficiary: Emmanuel Pereira
+Risk Score: Low
+313. Transaction ID: cb8f4669-8807-4c86-8cd2-e5d01ff0bbb0
+Transaction Date: 09/01/2025
+Value Date: 09/01/2025
+Posting Date: 09/02/2025
+Vendor: Thomas, Villa and Lucas (ID: VND-75501)
+Invoice: INV-852059 | PO: PO-9959
+Amount: 16,016.33 BSD
+Payment Method: Credit Card
+Bank: Morgan Stanley (Branch Code: 731)
+Account Number: OBNN75846971773964
+Beneficiary: Maggie de Alves
+Risk Score: Low
+314. Transaction ID: 55aa0e82-ba24-4592-bd0f-15a454e1cfbd
+Transaction Date: 06/08/2025
+Value Date: 06/09/2025
+Posting Date: 06/12/2025
+Vendor: Wyatt-Campbell (ID: VND-46918)
+Invoice: INV-310749 | PO: PO-9137
+Amount: 47,319.87 LTL
+Payment Method: Wire Transfer
+Bank: Deutsche Bank (Branch Code: 266)
+Account Number: 84867273001895598636361
+Beneficiary: Hanife Henk
+Risk Score: Medium
+315. Transaction ID: 065da695-2149-4559-93b5-8afafdad9878
+Transaction Date: 12/04/2025
+Value Date: 12/05/2025
+Posting Date: 12/09/2025
+Vendor: Bähr Vollbrecht GmbH (ID: VND-55845)
+Invoice: INV-481386 | PO: PO-8764
+Amount: 11,958.95 EUR
+Payment Method: Check
+Bank: Toronto-Dominion Bank (Branch Code: 137)
+Account Number: RXMQ79348012848337
+Beneficiary: Angela Mooney
+Risk Score: Critical
+316. Transaction ID: 08ceea87-f741-434b-b103-f7840f141908
+Transaction Date: 06/23/2025
+Value Date: 06/25/2025
+Posting Date: 06/30/2025
+Vendor: Morgan-Lynch (ID: VND-99197)
+Invoice: INV-838668 | PO: PO-8109
+Amount: 11,203.94 GEL
+Payment Method: Check
+Bank: NatWest Group (Branch Code: 667)
+Account Number: AYNR93680273909472
+Beneficiary: Charles Da Silva-Bouchet
+Risk Score: High
+317. Transaction ID: 76eedbcd-31f0-4d88-841d-c21bc8c65a16
+Transaction Date: 10/16/2025
+Value Date: 10/18/2025
+Posting Date: 10/20/2025
+Vendor: Camus (ID: VND-19670)
+Invoice: INV-268635 | PO: PO-5760
+Amount: 33,822.82 BHD
+Payment Method: SEPA
+Bank: BNP Paribas (Branch Code: 300)
+Account Number: 975477909431740539
+Beneficiary: June Wright
+Risk Score: High
+318. Transaction ID: 0b0662ce-c2ea-42e6-9405-871a45e437af
+Transaction Date: 06/30/2025
+Value Date: 07/01/2025
+Posting Date: 07/02/2025
+Vendor: Silva, Miller and Harris (ID: VND-29924)
+Invoice: INV-655783 | PO: PO-6307
+Amount: 31,209.18 PYG
+Payment Method: ACH
+Bank: Crédit Agricole (Branch Code: 411)
+Account Number: 78216067456461861795501
+Beneficiary: Mr Julian Burrows
+Risk Score: High
+319. Transaction ID: b6090ba5-d82e-4453-9f61-b16ff21895e5
+Transaction Date: 09/10/2025
+Value Date: 09/12/2025
+Posting Date: 09/12/2025
+Vendor: Marion (ID: VND-43896)
+Invoice: INV-714117 | PO: PO-7427
+Amount: 12,906.88 IQD
+Payment Method: Wire Transfer
+Bank: Barclays (Branch Code: 164)
+Account Number: VLHX85736683426105
+Beneficiary: Eugène Paris du Lebreton
+Risk Score: Medium
+320. Transaction ID: a22092ca-6d3d-4952-ad4d-0ce75024f229
+Transaction Date: 05/10/2025
+Value Date: 05/12/2025
+Posting Date: 05/12/2025
+Vendor: Reed-Gray (ID: VND-83336)
+Invoice: INV-403624 | PO: PO-6031
+Amount: 12,299.31 GMD
+Payment Method: Check
+Bank: Wells Fargo (Branch Code: 902)
+Account Number: XHCA34591590221472
+Beneficiary: Zoltan Wilms
+Risk Score: High
+321. Transaction ID: d84d613c-091f-4420-930c-48cd94c315af
+Transaction Date: 05/25/2025
+Value Date: 05/26/2025
+Posting Date: 05/30/2025
+Vendor: Griffiths, Clark and Clayton (ID: VND-32789)
+Invoice: INV-363642 | PO: PO-6769
+Amount: 3,275.79 TVD
+Payment Method: Credit Card
+Bank: Deutsche Bank (Branch Code: 624)
+Account Number: QHWR34828144349642
+Beneficiary: Elaine Flynn
+Risk Score: Critical
+322. Transaction ID: b7cc3dc3-308b-4f34-8356-cf884c4f618f
+Transaction Date: 12/30/2025
+Value Date: 12/31/2025
+Posting Date: 01/04/2026
+Vendor: Geißler GmbH & Co. KG (ID: VND-16888)
+Invoice: INV-118330 | PO: PO-9305
+Amount: 41,219.08 SGD
+Payment Method: ACH
+Bank: Lloyds Banking Group (Branch Code: 682)
+Account Number: 336105705942479793
+Beneficiary: Ante Gute-Riehl
+Risk Score: Low
+323. Transaction ID: 8c4be3b8-19ff-46f2-bcf1-ac5739e84f2b
+Transaction Date: 02/14/2025
+Value Date: 02/16/2025
+Posting Date: 02/16/2025
+Vendor: Rose Ltd (ID: VND-41603)
+Invoice: INV-642355 | PO: PO-9244
+Amount: 7,581.72 TTD
+Payment Method: Wire Transfer
+Bank: Banco Santander (Branch Code: 382)
+Account Number: 69257862215301968091793
+Beneficiary: John Wallace
+Risk Score: Critical
+324. Transaction ID: 489babf0-6929-46af-bef2-24f397dbba5a
+Transaction Date: 09/25/2025
+Value Date: 09/27/2025
+Posting Date: 09/27/2025
+Vendor: Pascal Jean S.A.S. (ID: VND-17215)
+Invoice: INV-970482 | PO: PO-9007
+Amount: 8,080.83 JMD
+Payment Method: SEPA
+Bank: Barclays (Branch Code: 244)
+Account Number: MSLR09090588597103
+Beneficiary: Dr Patrick Gray
+Risk Score: Low
+325. Transaction ID: 9879876a-9912-4a58-9891-1fd032547fdf
+Transaction Date: 07/07/2025
+Value Date: 07/07/2025
+Posting Date: 07/08/2025
+Vendor: Fliegner Kambs KG (ID: VND-81286)
+Invoice: INV-907818 | PO: PO-6123
+Amount: 42,368.74 MDL
+Payment Method: ACH
+Bank: Société Générale (Branch Code: 477)
+Account Number: 378218584029501754
+Beneficiary: Patrick-Roger Girard
+Risk Score: Low
+326. Transaction ID: 64053a23-9220-43d2-8cb2-ac990b3fc8aa
+Transaction Date: 08/30/2025
+Value Date: 08/30/2025
+Posting Date: 09/02/2025
+Vendor: Wilmsen KGaA (ID: VND-46964)
+Invoice: INV-790753 | PO: PO-9857
+Amount: 17,863.20 ARS
+Payment Method: Wire Transfer
+Bank: UBS Group (Branch Code: 434)
+Account Number: MYXM81835106598143
+Beneficiary: Deborah Gordon
+Risk Score: Critical
+327. Transaction ID: d1faab7e-6000-46cb-bd72-fe3c7c58d570
+Transaction Date: 08/09/2025
+Value Date: 08/11/2025
+Posting Date: 08/15/2025
+Vendor: Breton (ID: VND-11802)
+Invoice: INV-929736 | PO: PO-9762
+Amount: 47,711.30 GMD
+Payment Method: ACH
+Bank: Lloyds Banking Group (Branch Code: 878)
+Account Number: OAFZ04109105248681
+Beneficiary: Alice Wirth-Hethur
+Risk Score: High
+328. Transaction ID: 8cbc1476-14dc-42ae-841e-c53b3687870d
+Transaction Date: 12/19/2025
+Value Date: 12/20/2025
+Posting Date: 12/20/2025
+Vendor: Williams PLC (ID: VND-91329)
+Invoice: INV-256610 | PO: PO-5307
+Amount: 7,816.95 SPL
+Payment Method: SEPA
+Bank: Royal Bank of Canada (Branch Code: 989)
+Account Number: 212164919062506550
+Beneficiary: Jessica Payne
+Risk Score: Low
+329. Transaction ID: 631235b2-8084-40d1-9705-a6caed0aef06
+Transaction Date: 10/13/2025
+Value Date: 10/13/2025
+Posting Date: 10/15/2025
+Vendor: Gordon and Sons (ID: VND-50139)
+Invoice: INV-322755 | PO: PO-7504
+Amount: 39,659.72 CUP
+Payment Method: Check
+Bank: Citigroup (Branch Code: 631)
+Account Number: FKTM71802014256999
+Beneficiary: Noël de la Lacroix
+Risk Score: Low
+330. Transaction ID: d3bfb77d-7d56-420b-b28a-baac77a9d9ff
+Transaction Date: 09/19/2025
+Value Date: 09/21/2025
+Posting Date: 09/25/2025
+Vendor: Reinhardt Mohaupt AG (ID: VND-67515)
+Invoice: INV-576568 | PO: PO-8940
+Amount: 16,931.12 SRD
+Payment Method: Check
+Bank: BNP Paribas (Branch Code: 993)
+Account Number: CWSW29414180843374
+Beneficiary: Kayleigh Smith
+Risk Score: Critical
+331. Transaction ID: 2099e262-107f-4a73-9b93-9b88e468d2d0
+Transaction Date: 11/23/2025
+Value Date: 11/23/2025
+Posting Date: 11/27/2025
+Vendor: Heser (ID: VND-51413)
+Invoice: INV-205873 | PO: PO-9474
+Amount: 2,667.39 JOD
+Payment Method: Check
+Bank: Wells Fargo (Branch Code: 965)
+Account Number: KCHX70128320879938
+Beneficiary: Jacqueline Germain de Vidal
+Risk Score: High
+332. Transaction ID: 55dbd032-ec66-4527-b76f-3bd85f0f4ba5
+Transaction Date: 09/18/2025
+Value Date: 09/19/2025
+Posting Date: 09/22/2025
+Vendor: Dawson Group (ID: VND-77558)
+Invoice: INV-974676 | PO: PO-6168
+Amount: 17,318.68 LBP
+Payment Method: Wire Transfer
+Bank: Morgan Stanley (Branch Code: 959)
+Account Number: BJRG66633410664999
+Beneficiary: Ferdi Bohlander B.Eng.
+Risk Score: High
+333. Transaction ID: 20b3310a-f4d6-44ee-a6c9-f5734cc01e9f
+Transaction Date: 01/28/2026
+Value Date: 01/28/2026
+Posting Date: 02/01/2026
+Vendor: Henry, Smith and Stanley (ID: VND-16035)
+Invoice: INV-523158 | PO: PO-8474
+Amount: 46,661.84 TJS
+Payment Method: SEPA
+Bank: Barclays (Branch Code: 210)
+Account Number: NDZT37915258343884
+Beneficiary: Jason Franco
+Risk Score: High
